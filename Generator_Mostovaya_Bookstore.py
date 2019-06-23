@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 """
 Created on Fri Jun 14 20:45:01 2019
 
@@ -34,7 +35,7 @@ def Author():
     return(Author_List)
 
 Author_Table = Author()   
-#print(len(Author_Table))  
+#print((Author_Table))  
 
 def Publish():
     Publisher = ['New York Times' , 'Vintage', 'Wiley', 'Random House', 'Penguin', 'Fontana', 
@@ -49,13 +50,13 @@ def Publish():
     
         indY = np.random.randint(1890, 2018)
         temp = Publisher[i]
-        List_Pub.append([temp, indY, PublisherIND[Publisher.index(temp)]])
+        List_Pub.append([PublisherIND[Publisher.index(temp)], temp, indY])
         
-    return(List_Pub)    
+    return(sorted(List_Pub))    
 
 Publish_Table = Publish()
 
-#print(len(Publish_Table))    
+#print((Publish_Table))    
 
   
     
@@ -70,7 +71,8 @@ def books():
         ID_Author = np.random.randint(0, len(Author_Table))
         indP = np.random.randint(0, len(Publish()))
         indG = np.random.randint(0, len(Genre))
-        ListOfBooks.append([i, Books[indB],ID_Author, Publish()[indP][2], Genre[indG], np.random.randint(1918, 2018), format(np.random.uniform(5,95), '.2f')])
+        tmp = Publish()
+        ListOfBooks.append([i, Books[indB], Genre[indG], ID_Author, tmp[indP][0],  np.random.randint(1918, 2018), format(np.random.uniform(5,95), '.2f')])
     
     myset = set(tuple(x) for x in ListOfBooks)
     ListOfBooks =sorted([list(x) for x in myset]) 
@@ -78,7 +80,7 @@ def books():
     
 Books_Table = books()
 
-#print(len(Books_Table))
+print((Books_Table))
 
 def phone():
     n = str(random.randint(11000000000, 89000000000))
@@ -99,7 +101,7 @@ def clients():
     return(name)
     
 Clients_Table = clients()
-#print(len(Clients_Table))
+#print((Clients_Table))
 
 def OrderedBooks(): 
     OrderBooks = []
@@ -120,15 +122,17 @@ def OrderedBooks():
         listbook = [BookID[np.random.randint(len(Books_Table))] for i in range(a)]
         cost = 0
         for x in range(a):
-            OrderBooks.append([int(str(i)+str(listbook[x])),i, listbook[x]])
+            OrderBooks.append([int(str(listbook[x])+str(i)+str(a)),i, listbook[x]])
             cost += float(Books_Table[listbook[x]][6])
         Price.append([i, format(cost, '.2f')])
-            
+        
+    myset = set(tuple(x) for x in OrderBooks)
+    OrderBooks =sorted([list(x) for x in myset])         
     return(OrderBooks, Price)       
 
 OrderedBooks_Table, Prices = OrderedBooks()
 
-#print(OrderedBooks_Table, '\n'*2, Prices)
+#print(OrderedBooks_Table)
 
 
 def Orders():
@@ -137,8 +141,13 @@ def Orders():
     Order = []
     for i in range(len(OrderID)):
         Order.append([OrderID[i], ClientID[i], float(Prices[i][1])])
+        
     return(Order)
 
 Order_Table = Orders()    
     
-#print(len(Orders()))    
+#print((Orders()))    
+    
+        
+    
+
