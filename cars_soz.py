@@ -1,6 +1,6 @@
 import pandas as pd
 
-data=pd.read_csv("F:/cars.csv", delimiter=";")
+data=pd.read_csv("cars.csv", delimiter=";")
 
 
 hpd=set(data["Hybrid"])
@@ -131,7 +131,7 @@ for model in mdl_1:
             break
  
 print('------------')
-print('ОБРАБОТАННОЕ МАССИВИЩЕ ИЗ-ЗА КОТОРОГО МОЙ НОУТ ЧУТЬ НЕ УМЕР')
+print('ОБРАБОТАННОЕ МАССИВИЩЕ ИЗ-ЗА КОТОРОГО МОЙ НОУТ ЧУТЬ НЕ УМЕР') # отличный заголовок
 print('------------')       
 for row in prepared_data_for_db:       
     print(row)
