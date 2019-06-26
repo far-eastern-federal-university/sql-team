@@ -50,6 +50,7 @@ listFirms = []
 for i in range(5):
     listFirms.append([i+990, nameFirms[i]])
 print(listFirms) 
+print()
 
 
 listTransactions = []
@@ -59,7 +60,7 @@ IDuser = [100000, 100001, 100002, 100003, 100004]
 
 for quantity in range(5):
     print(dt.datetime.fromtimestamp(time.time()))
-    print(dt.datetime.fromtimestamp(43111.0()))
+    print(dt.datetime.fromtimestamp(43111.0))
     #for a in range(3):
         
         #t2 = np.random.uniform(2222.0, 11111.9)
