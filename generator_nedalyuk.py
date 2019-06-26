@@ -56,17 +56,18 @@ listTransactions = []
 IDfruit = [1, 2, 3]
 IDuser = [100000, 100001, 100002, 100003, 100004]
 IDTrans = 0
+number = 0
 t2 = 0
 for i in range(10):
     t2 += np.random.uniform(2222.0, 11111.9)
     T = dt.datetime.fromtimestamp(time.time()+t2)
     DATE = T.strftime("%d.%m.%Y %H:%M")
     USER = np.random.randint(0, len(IDuser))
-    IDTrans+=1
+    number += 1
     for a in range(3):
         quantity = np.random.randint(0,5)
         if (quantity > 0):
-            listTransactions.append([IDTrans, DATE, IDfruit[a], IDuser[USER], price[a]*quantity, quantity])
-
+            listTransactions.append([IDTrans, number, DATE, IDfruit[a], IDuser[USER], price[a]*quantity, quantity])
+            IDTrans+=1
     
 print(listTransactions)
