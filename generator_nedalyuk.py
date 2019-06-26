@@ -30,50 +30,43 @@ for i in range(5):
   
 myset1 = set(tuple(x) for x in listUser)
 listUser =[list(x) for x in myset1]
-print(listUser)  
+#print(listUser)  
 
 fruits = ['апельсин', 'ананас', 'банан']
 price = [50, 80, 40]
 listFruit = []
 for i in range(3):
     listFruit.append([i+1, fruits[i], price[i]])
-print(listFruit)  
+#print(listFruit)  
 
 country = ['Китай', 'Индия', 'Бразилия']
 listCountry = []
 for i in range(3):
     listCountry.append([i+300, country[i]])
-print(listCountry) 
+#print(listCountry) 
 
 nameFirms = ['Фитофрут', 'Агролэнд', 'Кладовая солнца', 'Сады Придонья',  'Натуральные сладости']
 listFirms = []
 for i in range(5):
     listFirms.append([i+990, nameFirms[i]])
-print(listFirms) 
-print()
+#print(listFirms) 
 
 
 listTransactions = []
 IDfruit = [1, 2, 3]
 IDuser = [100000, 100001, 100002, 100003, 100004]
-#t = 1522128990.01
-
-for quantity in range(5):
-    print(dt.datetime.fromtimestamp(time.time()))
-    print(dt.datetime.fromtimestamp(43111.0))
-    #for a in range(3):
-        
-        #t2 = np.random.uniform(2222.0, 11111.9)
-       # t += t2
-       # print(t)
-       # t = time.ctime(t)
-       # ts = time.strptime(t)
-        
-       # ts_f = time.strftime("%d.%m.%Y %H:%M", ts)
-        #print(ts_f)
-        
-        #Date = "{}.{}.{}".format(str(Day).zfill(2), str(Month).zfill(2), Year)
-        #listTransactions.append([IDfruit[a], IDuser[a], Date,price[a]*(quantity+1), fruits[a], quantity+1])
+IDTrans = 0
+t2 = 0
+for i in range(10):
+    t2 += np.random.uniform(2222.0, 11111.9)
+    T = dt.datetime.fromtimestamp(time.time()+t2)
+    DATE = T.strftime("%d.%m.%Y %H:%M")
+    USER = np.random.randint(0, len(IDuser))
+    IDTrans+=1
+    for a in range(3):
+        quantity = np.random.randint(0,5)
+        if (quantity > 0):
+            listTransactions.append([IDTrans, DATE, IDfruit[a], IDuser[USER], price[a]*quantity, quantity])
 
     
-#print(listTransactions)
+print(listTransactions)
