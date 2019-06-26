@@ -1,4 +1,6 @@
 import numpy as np
+import datetime as dt
+import time
 #import random
 #print(np.random.rand())
 np.random.seed(123)
@@ -53,13 +55,24 @@ print(listFirms)
 listTransactions = []
 IDfruit = [1, 2, 3]
 IDuser = [100000, 100001, 100002, 100003, 100004]
+#t = 1522128990.01
+
 for quantity in range(5):
-    for a in range(3):
-        Day = np.random.randint(1,28)
-        Month = np.random.randint(1,12)
-        Year = np.random.randint(2005,2019)
-        Date = "{}.{}.{}".format(str(Day).zfill(2), str(Month).zfill(2), Year)
-        listTransactions.append([IDfruit[a], IDuser[a], Date,price[a]*(quantity+1), fruits[a], quantity+1])
+    print(dt.datetime.fromtimestamp(time.time()))
+    print(dt.datetime.fromtimestamp(43111.0()))
+    #for a in range(3):
+        
+        #t2 = np.random.uniform(2222.0, 11111.9)
+       # t += t2
+       # print(t)
+       # t = time.ctime(t)
+       # ts = time.strptime(t)
+        
+       # ts_f = time.strftime("%d.%m.%Y %H:%M", ts)
+        #print(ts_f)
+        
+        #Date = "{}.{}.{}".format(str(Day).zfill(2), str(Month).zfill(2), Year)
+        #listTransactions.append([IDfruit[a], IDuser[a], Date,price[a]*(quantity+1), fruits[a], quantity+1])
 
     
-print(listTransactions)
+#print(listTransactions)
