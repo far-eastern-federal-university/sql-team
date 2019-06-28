@@ -11,7 +11,7 @@ import numpy as np
 import pandas as pd
 from mysql.connector import MySQLConnection, Error
 
-frame = pd.read_csv('library_data_book_has_author.csv', sep=',')
+frame = pd.read_csv('list_book.csv', sep=',')
 #print(frame) 
 
 
