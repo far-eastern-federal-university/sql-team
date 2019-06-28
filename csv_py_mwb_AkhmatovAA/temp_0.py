@@ -12,12 +12,11 @@ import pandas as pd
 import numpy as np
 
             
-frame = pd.read_csv('library_data_book_has_author.csv', sep=',')
+frame = pd.read_csv('list_book.csv', sep=',')
 #print(frame) 
 
 def connect():
     """ Connect to MySQL database """
-    
     try:
         print('Connecting to MySQL database...')
         conn = MySQLConnection(host='localhost',
@@ -28,10 +27,10 @@ def connect():
         # Подготовка объекта cursor с помощью метода cursor()
         cursor =conn.cursor()
         # Удалите таблицу, если она уже существует с помощью метода execute()
-        cursor.execute("DROP TABLE IF EXISTS library_data_book_has_author")
+        cursor.execute("DROP TABLE IF EXISTS list_book")
         # Создайте таблицу согласно требованию
-        sql = """CREATE TABLE library_data_book_has_author 
-                (id  INT,
+        sql = """CREATE TABLE list_book(
+                 id  INT,
                  ISBN  FLOAT,
                  Name CHAR(40),  
                  page_num INT,
@@ -44,7 +43,7 @@ def connect():
                  VALUES (109,6990901198455,"Foes Anderew Wresiveshg",642,1957)"""
                  
                  
-        frame.to_sql(name='billing_simple', con=conn, if_exists = 'append', index=False)           
+        #frame.to_sql(name='billing_simple', con=conn, if_exists = 'append', index=False)           
         try:
              # Выполните команду SQL
              cursor.execute(sql)
