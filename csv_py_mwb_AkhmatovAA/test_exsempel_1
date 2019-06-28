@@ -11,7 +11,7 @@ import csv
 import pandas as pd
 import numpy as np
 
-data = pd.read_csv('library_data_book_has_author.csv', sep=',')
+data = pd.read_csv('list_book.csv', sep=',')
 print(data) 
 
 conn = MySQLConnection(host='localhost',
