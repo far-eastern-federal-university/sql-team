@@ -35,7 +35,14 @@ def insert_library_data_book_has_author(library_data_book_has_author):
         conn.close()
         
 def main():        
-    library_data_book_has_author = []
+    library_data_book_has_author =(	1,4887084793486,"Lord Of Dread",252,1992	),
+(	2,1781739866104,"Pilot Of Fortune",308,1963	),
+(	3,2238467303760,"Fish Without Faith",283,1986	),
+(	4,4109664522524,"Horses With Honor",407,1914	),
+(	5,6990901198455,"Foes And Wives",642,1957	),
+(	6,5215396882083,"Lords And Fish",581,1999	),
+(	7,6989765696623,"Defeat Of The Gods",102,1997	),
+(	8,4987890299437,"Fortune Of Perfection",654,1900 []
     insert_library_data_book_has_author(library_data_book_has_author)                
   
 if __name__ == '__main__':
