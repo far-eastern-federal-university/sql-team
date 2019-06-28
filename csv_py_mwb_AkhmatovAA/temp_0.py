@@ -3,6 +3,7 @@
 Created on Wed Jun 26 00:09:39 2019
 
 @author: axmatov.ari
+Создаю свою таблицу
 """
 from mysql.connector import MySQLConnection, Error
 
