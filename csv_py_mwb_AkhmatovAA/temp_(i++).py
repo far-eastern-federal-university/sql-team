@@ -70,9 +70,9 @@ def insert_list_book(list_book):
 
         cursor = conn.cursor()
         cursor.executemany(sql, list_book)
-        
+        conn.commit()
         #frame.to_sql(name='billing_simple', con=conn, if_exists = 'append', index=False) 
-        #conn.commit()
+        
     except Error as error:
         print(error)
 
