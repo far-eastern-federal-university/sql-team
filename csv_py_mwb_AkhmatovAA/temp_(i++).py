@@ -70,9 +70,9 @@ def insert_list_book(list_book):
 
         cursor = conn.cursor()
         cursor.executemany(sql, list_book)
-        
+        conn.commit()
         #frame.to_sql(name='billing_simple', con=conn, if_exists = 'append', index=False) 
-        #conn.commit()
+        
     except Error as error:
         print(error)
 
@@ -82,7 +82,7 @@ def insert_list_book(list_book):
         print('Connection closed.')
         
 def main():        
-    list_book = [(	1,4887084793486,"Lord Of Dread",252,1992	),
+    list_book = [(	00,4887084793486,"Lord Of Dread",252,1992	),
                  (	2,1781739866104,"Pilot Of Fortune",308,1963	),
                  (	3,2238467303760,"Fish Without Faith",283,1986	),
                  (	4,4109664522524,"Horses With Honor",407,1914	),
