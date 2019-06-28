@@ -20,11 +20,11 @@ conn = MySQLConnection(host='localhost',
                            password='root')
 '''
 cursor =conn.cursor()   # Подготовка объекта cursor с помощью метода cursor()
-cursor.execute("DROP TABLE IF EXISTS library_data_book_has_author")# Удалите таблицу, если она уже существует 
+cursor.execute("DROP TABLE IF EXISTS list_book")# Удалите таблицу, если она уже существует 
                                                                    #с помощью метода execute()
 # Создайте таблицу согласно требованию
-sql = """CREATE TABLE library_data_book_has_author 
-                (id  INT,
+sql = """CREATE TABLE list_book(
+                 id  INT,
                  ISBN  FLOAT,
                  Name CHAR(40),  
                  page_num INT,
