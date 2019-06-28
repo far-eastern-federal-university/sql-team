@@ -1,0 +1,1001 @@
+student_id,student_name,student_address,student_branch,subject_id,subject_professor_id,professor_id,professor_name,subject,score_id,score_student_id,score_subject_id,marks,score_exam_id,exam_id,exam_name,exam_marks
+6753, Saka, Burundi, natural science, 3509, 9984, 5600, honours degree, physics, 8584, 9224, 9716, 62, 358, 2812, prob. theory, 6
+6899, Rereloke, Congo, economics, 9391, 2341, 4332, honours degree, economics, 7704, 2865, 2311, 77, 9472, 1738, medicine, 40
+5488, Hamsosesu, Central African Republic, engineering, 2736, 5817, 7479, masters's degree, medicine, 5738, 3633, 7240, 19, 1895, 518, economics, 46
+8506, Kakame, Egypt, economics, 6057, 835, 6121, masters's degree, medicine, 8513, 7435, 2104, 78, 5953, 7081, economics, 38
+9676, Skmeskse, Ethiopia, natural science, 8814, 3582, 6937, masters's degree, databases, 7981, 5975, 1890, 38, 8769, 5470, prob. theory, 72
+9750, Kelore, Cameroon, economics, 3955, 8937, 542, doctoral degree, databases, 6078, 3296, 8042, 86, 6305, 3254, foreign language, 11
+9320, Ku, Egypt, economics, 165, 7159, 5021, masters's degree, medicine, 3017, 240, 7076, 29, 4536, 2415, physics, 65
+4275, Skrk, Ghana, natural science, 4038, 4878, 3066, doctoral degree, databases, 9666, 9332, 5501, 7, 9380, 9005, graph theory, 65
+7981, Ka, Burundi, natural science, 6588, 4292, 2613, masters's degree, foreign language, 5515, 7185, 2237, 79, 4560, 7081, physics, 6
+4043, Sasksome, Cameroon, computer science, 7237, 464, 1826, masters's degree, physics, 8938, 8653, 2151, 32, 5820, 7459, foreign language, 36
+4493, Se, Cameroon, foreign languages, 9458, 7569, 3244, honours degree, graph theory, 9612, 9367, 4478, 97, 8212, 5524, graph theory, 81
+5302, Suhamham, Ghana, natural science, 2671, 9143, 1462, masters's degree, biology, 4226, 3653, 3745, 26, 5692, 7382, prob. theory, 3
+7631, Ko, Burundi, computer science, 8790, 8292, 9324, doctoral degree, graph theory, 3719, 902, 466, 56, 3237, 4656, medicine, 72
+9395, Resuse, Kenya, computer science, 412, 3028, 9811, doctoral degree, programming, 2566, 1118, 6144, 51, 2824, 2890, math, 85
+5297, Sulm, Guinea, engineering, 9713, 6948, 8167, doctoral degree, foreign language, 1148, 8289, 7039, 74, 7122, 6373, social sudies, 4
+3150, Hamkose, Mozambique, foreign languages, 6735, 3165, 8684, doctoral degree, physics, 9520, 9211, 5388, 81, 2274, 3810, math, 3
+1488, Skkaseksa, Mozambique, economics, 7787, 8937, 9551, masters's degree, physics, 9230, 6340, 1559, 80, 7303, 1755, prob. theory, 4
+5105, Reresasake, Ethiopia, foreign languages, 2139, 1149, 9505, masters's degree, biology, 7674, 6304, 2440, 90, 8507, 5370, medicine, 28
+2138, Kosese, Cameroon, computer science, 8230, 3478, 8251, honours degree, physics, 1172, 5240, 7344, 17, 1088, 6004, math, 34
+8139, Su, Cameroon, economics, 2054, 466, 8035, masters's degree, graph theory, 9699, 6426, 7809, 57, 9781, 661, graph theory, 75
+280, Kosazi, Egypt, foreign languages, 6726, 641, 7924, masters's degree, programming, 4074, 5144, 689, 78, 7618, 2083, math, 54
+3423, Suku, Ghana, foreign languages, 8268, 6253, 1178, honours degree, medicine, 1995, 707, 4498, 86, 3563, 678, economics, 57
+4332, Sekloseklolo, Cameroon, natural science, 4925, 7541, 436, masters's degree, math, 5752, 1026, 6950, 100, 4789, 6423, foreign language, 22
+5190, Suzirk, Mozambique, natural science, 9710, 6005, 6666, masters's degree, databases, 5697, 6222, 5375, 52, 60, 2112, economics, 24
+8991, Mesore, Kenya, foreign languages, 3783, 782, 6980, honours degree, social sudies, 3804, 5748, 3230, 61, 2566, 3135, prob. theory, 43
+8176, Ziham, Burundi, computer science, 1837, 8362, 5005, honours degree, social sudies, 9395, 7418, 2334, 60, 6024, 3840, economics, 63
+4372, Mesekkolmse, Congo, economics, 6600, 2759, 5987, doctoral degree, economics, 4955, 9678, 1323, 45, 1188, 9950, graph theory, 28
+2059, Kumemekere, Ethiopia, foreign languages, 8406, 1434, 3739, doctoral degree, graph theory, 2167, 7170, 3661, 52, 764, 5592, social sudies, 76
+6029, Kasek, Egypt, engineering, 1499, 4289, 2725, honours degree, prob. theory, 9231, 5942, 7115, 15, 6727, 8202, graph theory, 21
+9776, Lmkusek, Ghana, computer science, 8009, 2520, 5047, honours degree, differential eq., 2897, 5515, 97, 78, 4488, 783, graph theory, 92
+869, Keziso, Cameroon, natural science, 5329, 9415, 9581, honours degree, economics, 9963, 4390, 1541, 66, 6283, 7223, programming, 16
+9859, Zirk, Cameroon, computer science, 1479, 6438, 890, honours degree, social sudies, 2500, 8031, 9723, 3, 1021, 6325, economics, 71
+3597, Lmsurkreso, Ethiopia, economics, 5108, 8826, 4303, masters's degree, foreign language, 6632, 9028, 8194, 100, 5108, 7424, medicine, 31
+6061, Rkresoham, Guinea, natural science, 5320, 4161, 7308, doctoral degree, medicine, 6529, 1800, 9035, 48, 2640, 961, economics, 6
+7343, Kukazi, Ghana, natural science, 6702, 3967, 6227, masters's degree, programming, 9996, 8010, 9767, 13, 9100, 4673, physics, 66
+2534, Sasokuka, Egypt, natural science, 706, 2530, 6989, masters's degree, programming, 7289, 8384, 5358, 53, 5493, 9138, biology, 50
+5789, Sosese, Egypt, computer science, 1974, 6752, 8533, masters's degree, biology, 7696, 8169, 3749, 75, 566, 3953, databases, 17
+6319, So, Cameroon, computer science, 5108, 6247, 6041, doctoral degree, foreign language, 598, 9109, 2788, 96, 6196, 4670, programming, 86
+8716, Lmzi, Cameroon, computer science, 6195, 2777, 5242, honours degree, differential eq., 5832, 9731, 109, 14, 5639, 3798, social sudies, 76
+397, Sesaresa, Libiya, natural science, 5465, 8806, 3838, masters's degree, foreign language, 7017, 1748, 4109, 75, 91, 3130, social sudies, 90
+2417, Sek, Ethiopia, engineering, 6708, 3904, 9640, honours degree, databases, 9417, 1497, 8077, 24, 3596, 1892, physics, 71
+1305, Lmse, Libiya, economics, 7920, 4602, 5221, doctoral degree, graph theory, 8057, 5550, 294, 92, 2175, 2989, databases, 17
+7082, Me, Kenya, foreign languages, 3435, 616, 6428, masters's degree, programming, 1930, 2768, 3215, 89, 7702, 7417, medicine, 14
+3439, Me, Burundi, natural science, 7007, 1439, 9323, masters's degree, math, 7687, 3209, 107, 32, 9555, 5502, social sudies, 84
+862, Remeke, Ethiopia, economics, 4510, 7075, 7101, doctoral degree, medicine, 9642, 2199, 7512, 56, 7264, 5962, graph theory, 89
+672, Re, Central African Republic, computer science, 7653, 9796, 2615, masters's degree, economics, 6542, 1876, 9665, 9, 3462, 7439, biology, 10
+5461, Skku, Guinea, computer science, 8189, 6044, 7692, doctoral degree, programming, 1940, 6121, 6346, 16, 9800, 3882, economics, 52
+2596, Skse, Ethiopia, economics, 2036, 9574, 5690, doctoral degree, social sudies, 4616, 5084, 7714, 64, 632, 4812, prob. theory, 71
+4959, Sasukaso, Central African Republic, foreign languages, 1673, 5692, 5095, honours degree, math, 9079, 1387, 6668, 11, 8739, 9738, differential eq., 5
+8887, Kerehamlm, Mozambique, engineering, 6283, 6366, 8234, masters's degree, differential eq., 5641, 7490, 7463, 63, 5280, 9323, differential eq., 58
+6998, Kasuhamlo, Ghana, engineering, 9303, 6831, 8727, honours degree, differential eq., 9387, 8704, 6953, 12, 6707, 3616, economics, 24
+7407, Sekkusk, Egypt, natural science, 9284, 3266, 3922, masters's degree, economics, 3273, 2965, 9384, 24, 6273, 2903, math, 91
+5804, Rerkselo, Egypt, foreign languages, 9196, 3863, 7308, doctoral degree, biology, 6249, 5170, 527, 20, 1663, 386, physics, 7
+6013, Lo, Guinea, engineering, 4507, 2552, 1436, honours degree, databases, 2122, 3418, 2289, 88, 4014, 8158, differential eq., 8
+2417, Kuskmeso, Mozambique, computer science, 8264, 8745, 1950, honours degree, foreign language, 5603, 2531, 5984, 58, 1376, 8079, graph theory, 10
+4112, Zikerkselo, Guinea, natural science, 1716, 4194, 6928, masters's degree, programming, 2423, 3316, 5673, 78, 9795, 1319, math, 79
+9655, Meseskko, Guinea, engineering, 423, 4527, 4974, masters's degree, databases, 2183, 9373, 1414, 100, 871, 4142, economics, 63
+8160, Zihamkesese, Guinea, foreign languages, 3532, 6883, 1649, masters's degree, prob. theory, 2108, 5751, 4600, 4, 998, 4596, economics, 10
+4480, Se, Guinea, economics, 3137, 3457, 8451, honours degree, math, 334, 6144, 7268, 68, 4933, 2041, foreign language, 65
+4609, Kalosulork, Egypt, foreign languages, 9940, 9534, 6726, honours degree, biology, 4686, 4949, 8071, 61, 1120, 6134, math, 96
+2519, Loko, Ghana, natural science, 6025, 1512, 4215, honours degree, medicine, 9927, 8441, 1711, 11, 650, 5863, physics, 79
+472, Ku, Mozambique, computer science, 3137, 6435, 6318, doctoral degree, economics, 6640, 1926, 5421, 28, 4022, 3994, databases, 60
+9830, Sare, Congo, natural science, 43, 4321, 5833, honours degree, foreign language, 5639, 8075, 1898, 77, 2603, 1836, biology, 15
+9930, Memesuka, Cameroon, computer science, 1262, 6767, 5788, masters's degree, physics, 1828, 3498, 6426, 14, 5714, 3807, math, 91
+8899, Sa, Ghana, economics, 1233, 6163, 7982, honours degree, medicine, 4194, 6368, 513, 85, 3392, 5250, physics, 69
+8269, Rk, Burundi, computer science, 6747, 5047, 2356, honours degree, social sudies, 2993, 1659, 2081, 82, 9526, 8515, prob. theory, 38
+6019, Losa, Central African Republic, engineering, 9727, 3416, 1457, honours degree, programming, 4531, 6051, 1375, 93, 4940, 7477, foreign language, 62
+8194, Ka, Guinea, natural science, 9208, 8786, 8756, honours degree, economics, 1596, 9559, 1979, 3, 8953, 33, programming, 54
+6315, Rk, Libiya, natural science, 2710, 5286, 7361, honours degree, databases, 1381, 8905, 688, 48, 6209, 9423, economics, 86
+4157, Seklm, Burundi, computer science, 9376, 2540, 3936, honours degree, social sudies, 2841, 6811, 7342, 49, 4695, 9469, medicine, 35
+4682, Ka, Ghana, engineering, 2534, 88, 6726, honours degree, differential eq., 4526, 3763, 2777, 17, 358, 2115, databases, 82
+1702, Ko, Congo, engineering, 4279, 5253, 235, masters's degree, economics, 6158, 9122, 1437, 65, 9565, 3948, databases, 23
+8993, Rklmme, Libiya, computer science, 8548, 6944, 9335, honours degree, graph theory, 4444, 9910, 5085, 42, 8022, 7122, biology, 43
+4859, Kesa, Burundi, engineering, 5563, 9564, 2973, honours degree, databases, 5817, 3340, 2865, 8, 2870, 6399, physics, 53
+7954, Kesk, Kenya, engineering, 9141, 3476, 2148, doctoral degree, math, 5575, 6116, 3951, 92, 9799, 7751, medicine, 96
+8457, Lokulo, Libiya, foreign languages, 1230, 9574, 1952, doctoral degree, prob. theory, 5357, 6076, 7849, 31, 7288, 6111, databases, 79
+3495, Lmlokoloko, Congo, foreign languages, 4020, 4879, 1369, honours degree, prob. theory, 9866, 1968, 3390, 24, 6912, 5316, medicine, 61
+5335, Rerk, Libiya, engineering, 9757, 19, 4869, masters's degree, differential eq., 6650, 9215, 7243, 39, 7008, 7809, foreign language, 57
+6944, Sulmsuka, Mozambique, computer science, 8839, 3037, 2078, doctoral degree, programming, 5196, 9133, 227, 17, 8885, 8854, economics, 86
+224, Skkuresuse, Kenya, foreign languages, 7566, 813, 1265, doctoral degree, foreign language, 2970, 8868, 6363, 82, 2433, 7680, graph theory, 33
+104, Losukome, Libiya, computer science, 3765, 3890, 6502, honours degree, physics, 5664, 6883, 1069, 21, 5954, 4566, math, 87
+3937, Sesu, Ghana, engineering, 7139, 2259, 7235, honours degree, math, 3825, 3469, 8712, 4, 1567, 8793, foreign language, 56
+7910, Lmkesksoka, Burundi, computer science, 4901, 8975, 4934, doctoral degree, biology, 9535, 3397, 2048, 36, 8165, 7577, programming, 67
+1711, Rkskreseham, Egypt, engineering, 558, 1611, 9878, masters's degree, differential eq., 6694, 9149, 4515, 4, 9121, 2198, prob. theory, 38
+5179, Se, Ghana, engineering, 423, 5110, 3354, honours degree, databases, 292, 5886, 1842, 100, 6537, 101, math, 36
+5608, Sklmrksu, Mozambique, economics, 9719, 6845, 6310, doctoral degree, graph theory, 6386, 106, 5894, 63, 5009, 4781, differential eq., 94
+6954, Ko, Egypt, economics, 7672, 8757, 962, honours degree, prob. theory, 5728, 4830, 4005, 95, 6585, 7565, economics, 78
+4372, Rk, Kenya, foreign languages, 1921, 130, 5573, honours degree, medicine, 4466, 1907, 9322, 95, 5047, 4905, differential eq., 60
+4563, Sorkka, Libiya, engineering, 9784, 5057, 4527, honours degree, prob. theory, 1380, 1274, 8711, 11, 3858, 5436, social sudies, 82
+8195, Keham, Egypt, computer science, 4936, 161, 4890, doctoral degree, medicine, 4142, 2977, 8196, 39, 892, 9949, biology, 28
+5235, Rk, Congo, foreign languages, 8164, 4306, 2152, masters's degree, prob. theory, 6445, 7141, 7346, 15, 3236, 2111, differential eq., 49
+1311, Rezizire, Guinea, computer science, 686, 8989, 6592, doctoral degree, graph theory, 2158, 2336, 3487, 31, 2456, 8302, differential eq., 19
+1196, Kokesososu, Libiya, economics, 7938, 4972, 7597, doctoral degree, differential eq., 2254, 8406, 8207, 4, 7934, 7532, economics, 34
+4605, Sksa, Libiya, computer science, 4707, 5008, 1625, masters's degree, medicine, 980, 2696, 7875, 80, 4552, 8258, medicine, 87
+8819, Ham, Libiya, foreign languages, 3426, 6193, 864, doctoral degree, economics, 517, 2559, 9637, 21, 8139, 4003, databases, 8
+38, Sare, Ghana, computer science, 8236, 1904, 5268, doctoral degree, biology, 7168, 2220, 1415, 100, 2780, 1322, programming, 40
+3162, Hamrk, Mozambique, computer science, 5083, 4571, 3043, masters's degree, programming, 3079, 1892, 9827, 77, 8237, 3907, medicine, 77
+3136, Ham, Burundi, engineering, 3812, 8962, 2657, honours degree, biology, 8132, 8813, 8940, 54, 8884, 2067, foreign language, 98
+5979, Korkrekezi, Libiya, natural science, 2927, 3792, 5386, doctoral degree, foreign language, 1431, 2315, 8306, 44, 2053, 5348, biology, 2
+7998, Sekke, Ethiopia, foreign languages, 3583, 6392, 5280, masters's degree, economics, 4245, 4232, 7135, 26, 5783, 6803, medicine, 11
+5376, Ke, Kenya, economics, 452, 6411, 255, doctoral degree, graph theory, 8975, 7948, 9303, 44, 2814, 9946, social sudies, 58
+1508, Lo, Cameroon, economics, 9625, 9320, 7161, honours degree, medicine, 3865, 1182, 9044, 35, 4700, 7460, math, 17
+326, Zisek, Ethiopia, computer science, 8541, 119, 2054, masters's degree, databases, 5965, 4362, 9394, 79, 2980, 2184, foreign language, 72
+5663, Resek, Guinea, natural science, 6384, 2154, 7089, honours degree, physics, 2566, 1508, 9836, 75, 8464, 6932, programming, 78
+155, Sk, Libiya, engineering, 922, 5865, 8154, doctoral degree, economics, 5191, 3307, 9942, 100, 2251, 7445, biology, 98
+8696, Skhamrkre, Kenya, engineering, 2605, 3844, 8711, honours degree, math, 4879, 3185, 6210, 74, 7228, 5707, math, 31
+520, Lolo, Mozambique, economics, 5290, 7870, 8647, masters's degree, social sudies, 8574, 838, 3560, 90, 8711, 394, graph theory, 29
+9025, Zimeseksekke, Central African Republic, natural science, 1070, 5001, 6535, doctoral degree, differential eq., 9339, 543, 6594, 28, 4998, 1826, prob. theory, 79
+6411, Sakose, Cameroon, economics, 1496, 1065, 8743, honours degree, math, 6706, 940, 2819, 99, 6349, 4156, economics, 94
+1233, Melmre, Mozambique, computer science, 2535, 8834, 4960, doctoral degree, economics, 9212, 9960, 9388, 17, 8335, 3580, foreign language, 18
+4515, Kemesosalm, Egypt, computer science, 2465, 5967, 4915, doctoral degree, physics, 4613, 2724, 8387, 74, 1472, 7836, differential eq., 66
+2000, Mesekkolmse, Ethiopia, computer science, 7031, 8721, 3178, doctoral degree, physics, 1014, 5582, 6998, 47, 6812, 9430, foreign language, 79
+4516, Melm, Central African Republic, foreign languages, 9272, 8170, 5521, honours degree, prob. theory, 7426, 445, 2440, 43, 9803, 6500, programming, 18
+1328, Kuhamsasako, Libiya, economics, 5421, 6013, 7822, masters's degree, foreign language, 8946, 9495, 3088, 43, 2586, 1104, social sudies, 53
+6168, Rkrese, Kenya, foreign languages, 9802, 5492, 1095, masters's degree, math, 4234, 182, 7577, 32, 3889, 3484, databases, 20
+9417, Solokezi, Mozambique, engineering, 5703, 8561, 9981, masters's degree, prob. theory, 1440, 8414, 9114, 56, 312, 2603, databases, 92
+7336, Lokesekrelo, Guinea, natural science, 3977, 2310, 1768, masters's degree, economics, 1987, 6517, 5020, 44, 9909, 515, physics, 87
+9548, Lmsekko, Mozambique, computer science, 2141, 3661, 1551, doctoral degree, physics, 4967, 6905, 297, 34, 1200, 4119, math, 67
+4446, Sukuke, Guinea, engineering, 3582, 6191, 35, doctoral degree, databases, 2580, 1410, 1079, 53, 3493, 7181, social sudies, 81
+7878, Sosa, Ghana, computer science, 2444, 2769, 4804, masters's degree, social sudies, 4400, 7196, 8481, 42, 4615, 5230, differential eq., 74
+1299, Sklmsekskham, Ghana, computer science, 7854, 6777, 3123, doctoral degree, foreign language, 3991, 172, 7086, 27, 2646, 1034, graph theory, 49
+7958, Sure, Kenya, engineering, 1688, 495, 447, honours degree, prob. theory, 5039, 2389, 7476, 37, 225, 2857, prob. theory, 88
+7556, Sekku, Burundi, foreign languages, 8243, 5867, 2366, doctoral degree, prob. theory, 9242, 6457, 5392, 33, 3325, 2237, graph theory, 24
+8813, Sohamresusk, Ghana, engineering, 4412, 89, 9109, doctoral degree, differential eq., 8091, 4844, 3154, 70, 4476, 2855, graph theory, 75
+5577, Rk, Mozambique, foreign languages, 3806, 5630, 7558, honours degree, prob. theory, 9988, 2670, 6836, 19, 1681, 2957, economics, 85
+8273, Sususazirk, Kenya, economics, 2089, 4813, 6286, honours degree, programming, 784, 8964, 6109, 67, 6067, 445, physics, 45
+8910, Kusesek, Cameroon, natural science, 1042, 1862, 3941, masters's degree, programming, 7996, 1222, 220, 8, 4684, 6704, physics, 62
+4430, Hamku, Cameroon, foreign languages, 6533, 8204, 8499, masters's degree, biology, 9029, 9048, 4355, 72, 14, 8514, social sudies, 61
+3323, Soseksesek, Libiya, natural science, 943, 7951, 7836, honours degree, prob. theory, 504, 4795, 3605, 76, 902, 8643, databases, 66
+5923, Sksklmham, Mozambique, computer science, 3656, 911, 4163, honours degree, economics, 8668, 5512, 937, 81, 5595, 8122, databases, 81
+1834, Suhamsksosu, Mozambique, engineering, 4664, 7134, 1855, doctoral degree, biology, 3355, 5161, 6350, 22, 1356, 7371, physics, 12
+7377, Suzikusk, Congo, computer science, 4839, 7269, 8785, doctoral degree, prob. theory, 395, 3053, 7511, 64, 356, 6653, physics, 12
+5778, Rksekham, Central African Republic, economics, 2208, 9564, 2968, masters's degree, differential eq., 5729, 5626, 2809, 58, 7080, 6768, graph theory, 49
+7839, Kozizisa, Central African Republic, engineering, 5324, 2833, 8930, masters's degree, social sudies, 5510, 760, 5880, 4, 9569, 2635, economics, 81
+5796, Sksk, Egypt, economics, 3138, 3286, 1674, doctoral degree, databases, 7847, 8108, 3107, 96, 3986, 1439, social sudies, 99
+3552, Kerksoko, Egypt, economics, 9303, 8619, 2035, honours degree, prob. theory, 8590, 3923, 1176, 2, 6105, 7998, economics, 95
+8442, Meloku, Burundi, foreign languages, 7720, 7979, 9955, masters's degree, graph theory, 846, 2109, 8102, 45, 8790, 8125, math, 42
+3342, Koskloka, Ghana, engineering, 9444, 9494, 4094, masters's degree, medicine, 8600, 1095, 8663, 1, 7782, 7817, physics, 82
+6361, Sakurksasu, Ghana, engineering, 4590, 2628, 3444, doctoral degree, foreign language, 8881, 3247, 9393, 98, 6851, 4382, biology, 97
+9433, Hamsekre, Central African Republic, foreign languages, 6141, 5725, 41, honours degree, prob. theory, 7547, 6191, 1251, 64, 6723, 6450, social sudies, 8
+7171, Ka, Ghana, natural science, 7126, 1311, 5954, honours degree, physics, 831, 5153, 8927, 70, 4659, 5578, social sudies, 15
+4705, Koke, Ethiopia, engineering, 1353, 2202, 8266, honours degree, economics, 1126, 978, 66, 97, 9465, 5171, economics, 87
+5088, Kukasekskre, Congo, natural science, 5084, 5969, 3188, masters's degree, economics, 4201, 6719, 7201, 44, 9292, 4142, medicine, 56
+2590, Lozilo, Libiya, foreign languages, 8343, 8087, 1225, masters's degree, math, 5998, 1695, 8081, 56, 3778, 6124, programming, 72
+3273, Hamkezi, Ghana, foreign languages, 8773, 903, 3320, doctoral degree, economics, 225, 2285, 2916, 43, 5684, 3061, prob. theory, 81
+1192, Meko, Ghana, economics, 7429, 6564, 3518, doctoral degree, databases, 3337, 1292, 2725, 8, 9324, 9491, prob. theory, 58
+2460, Kaskhamhamham, Congo, economics, 9416, 1230, 7833, doctoral degree, physics, 5053, 3303, 3666, 99, 2806, 4206, math, 18
+9248, Lmkasomezi, Burundi, computer science, 2124, 9245, 245, honours degree, math, 2082, 8500, 810, 31, 1035, 6402, economics, 66
+6662, Ku, Burundi, natural science, 5229, 6027, 4874, masters's degree, differential eq., 1836, 1967, 4555, 99, 4632, 1369, math, 78
+2144, Sukukore, Burundi, computer science, 5326, 7222, 5123, honours degree, databases, 5446, 4823, 9927, 93, 6940, 9565, graph theory, 45
+1454, Rk, Congo, economics, 6792, 2916, 1003, masters's degree, social sudies, 8670, 6983, 9154, 10, 5961, 8463, biology, 40
+2168, Zilosame, Central African Republic, foreign languages, 8534, 4903, 3618, masters's degree, foreign language, 1398, 2378, 5175, 88, 43, 5228, programming, 66
+3310, Loselosaham, Mozambique, foreign languages, 5582, 3992, 2184, doctoral degree, databases, 1105, 1522, 3983, 43, 4048, 5574, biology, 79
+8075, Kosk, Guinea, foreign languages, 2349, 2978, 3249, honours degree, social sudies, 1800, 8193, 6486, 95, 9709, 1869, economics, 65
+3663, Ham, Guinea, computer science, 9764, 6136, 5078, honours degree, medicine, 4394, 8851, 4853, 32, 4269, 3035, differential eq., 24
+6630, Rklmrk, Egypt, economics, 848, 8774, 6461, honours degree, differential eq., 7130, 4966, 7590, 45, 5724, 6795, social sudies, 2
+8992, Resasesurk, Central African Republic, economics, 3669, 9387, 8189, doctoral degree, biology, 7828, 3973, 7785, 12, 5408, 317, economics, 16
+19, Kukesoke, Congo, foreign languages, 2785, 7364, 210, honours degree, programming, 5087, 1397, 7, 93, 7211, 3246, graph theory, 29
+4716, Rkhamsksa, Ethiopia, engineering, 8127, 5223, 8179, doctoral degree, social sudies, 3982, 1217, 6045, 100, 1108, 2580, graph theory, 30
+6473, Sokelmsuham, Central African Republic, engineering, 1128, 9712, 9295, doctoral degree, databases, 3003, 4669, 3859, 62, 369, 4776, prob. theory, 65
+5651, Zimelore, Kenya, computer science, 7294, 7578, 6377, honours degree, biology, 3716, 4098, 6736, 12, 2005, 3406, medicine, 22
+8018, Kamesekku, Libiya, computer science, 353, 3418, 4104, masters's degree, foreign language, 6581, 6091, 4303, 14, 3452, 7182, physics, 27
+4623, Lome, Central African Republic, natural science, 3960, 7863, 1079, doctoral degree, physics, 3188, 3390, 7478, 54, 5698, 5668, economics, 85
+1736, Reko, Burundi, computer science, 3711, 1851, 2417, masters's degree, foreign language, 9747, 4309, 6021, 97, 9098, 8705, foreign language, 77
+8824, Sek, Cameroon, natural science, 6725, 5667, 2268, honours degree, foreign language, 442, 523, 98, 69, 9302, 8618, physics, 31
+3452, Zirkzime, Mozambique, engineering, 2649, 9746, 8568, masters's degree, social sudies, 767, 5767, 3863, 30, 8554, 3073, prob. theory, 35
+2062, Skmekasekke, Congo, natural science, 1631, 2619, 8169, honours degree, differential eq., 6533, 3825, 2023, 36, 7378, 8913, math, 81
+5695, Sklokukelm, Congo, engineering, 9756, 5349, 9586, masters's degree, physics, 136, 6148, 3220, 2, 3840, 8487, social sudies, 95
+705, So, Central African Republic, foreign languages, 8348, 6476, 8626, honours degree, prob. theory, 3795, 1479, 919, 43, 3965, 350, differential eq., 28
+8316, Mezisask, Congo, natural science, 9046, 7628, 1106, doctoral degree, programming, 2784, 6605, 5637, 3, 8887, 5882, biology, 59
+4660, Sarkreham, Congo, computer science, 7097, 7049, 7462, honours degree, physics, 3221, 1363, 1837, 85, 7748, 6864, differential eq., 76
+8593, Kekaloreke, Congo, engineering, 7874, 6370, 3915, doctoral degree, prob. theory, 345, 5486, 10, 83, 3531, 776, biology, 50
+3883, Lmsokelm, Ethiopia, economics, 1009, 3561, 1304, doctoral degree, math, 151, 383, 6154, 79, 5128, 74, differential eq., 49
+3596, Kekokakesa, Guinea, computer science, 7986, 5238, 5584, doctoral degree, databases, 2596, 673, 7390, 25, 688, 8995, biology, 87
+9990, Sekkoskrkke, Libiya, engineering, 7490, 7893, 5819, honours degree, medicine, 2974, 5205, 5533, 49, 8534, 4938, foreign language, 60
+7665, Mesoka, Libiya, engineering, 8567, 5384, 3989, honours degree, economics, 5256, 8061, 6585, 13, 8331, 3299, physics, 35
+6610, Keseksase, Cameroon, computer science, 7156, 1533, 8797, doctoral degree, graph theory, 986, 8648, 2574, 34, 188, 8755, prob. theory, 77
+6354, Sekkaseksaku, Guinea, engineering, 7793, 3241, 9046, doctoral degree, graph theory, 2727, 7879, 1851, 35, 7126, 1834, databases, 46
+6755, Some, Congo, computer science, 4345, 6521, 4743, honours degree, economics, 7395, 9006, 4771, 24, 1575, 6045, social sudies, 84
+1147, Sklmsk, Central African Republic, natural science, 7209, 3518, 6886, honours degree, programming, 5404, 5695, 4575, 83, 6649, 603, medicine, 98
+3902, Lm, Ethiopia, engineering, 7156, 2853, 4740, masters's degree, social sudies, 3467, 7617, 212, 44, 3540, 8777, social sudies, 84
+6380, Sumeku, Burundi, engineering, 2706, 5415, 4134, honours degree, databases, 6409, 45, 6121, 75, 2962, 5333, programming, 59
+9883, Kasek, Burundi, engineering, 229, 9512, 7113, masters's degree, databases, 4877, 4137, 5305, 66, 5990, 1925, differential eq., 32
+8092, Hamseku, Congo, engineering, 3759, 4381, 7132, doctoral degree, economics, 3413, 2765, 2711, 87, 5389, 4514, foreign language, 50
+7563, Sehamso, Central African Republic, economics, 4271, 9017, 3932, masters's degree, databases, 6380, 3175, 342, 49, 1117, 1387, programming, 76
+8167, Kasosu, Burundi, computer science, 6048, 6142, 6365, honours degree, foreign language, 4626, 5236, 1187, 71, 1407, 9344, math, 10
+7935, Skse, Kenya, computer science, 5401, 9257, 6335, masters's degree, physics, 5020, 6802, 9557, 76, 5272, 8374, prob. theory, 91
+1858, Sasome, Guinea, engineering, 4138, 7316, 6789, masters's degree, math, 1309, 7431, 3569, 20, 8908, 1107, graph theory, 46
+8058, Sa, Guinea, computer science, 8877, 280, 3497, honours degree, medicine, 8160, 4080, 2352, 79, 6902, 9326, programming, 36
+8762, Sekrk, Ghana, foreign languages, 4143, 1093, 7945, masters's degree, math, 7990, 8108, 1258, 38, 7722, 4922, databases, 70
+1927, Kesekoseham, Ghana, computer science, 8041, 2798, 7690, honours degree, graph theory, 1789, 1594, 1114, 42, 1296, 5278, economics, 25
+3300, Sek, Cameroon, engineering, 2126, 8101, 6967, doctoral degree, prob. theory, 3806, 2491, 1338, 67, 5979, 1077, social sudies, 34
+1544, Rkkuloham, Libiya, natural science, 123, 8240, 4324, honours degree, biology, 1689, 6796, 7561, 69, 2032, 5091, physics, 4
+3363, Lo, Ghana, computer science, 8440, 6253, 2723, honours degree, graph theory, 5672, 4761, 5044, 45, 2277, 8819, medicine, 54
+3082, Suhamkesuko, Egypt, economics, 6186, 5953, 873, honours degree, graph theory, 3351, 7901, 186, 79, 9509, 3858, medicine, 12
+3677, Kasu, Kenya, engineering, 7889, 399, 3942, doctoral degree, math, 4297, 4542, 2727, 48, 3949, 8028, physics, 19
+7921, Hamkako, Ghana, engineering, 6159, 4901, 8978, honours degree, math, 5600, 2698, 7616, 69, 5772, 61, economics, 5
+7978, Surkrkku, Mozambique, computer science, 2693, 2271, 2033, honours degree, prob. theory, 720, 10, 4540, 69, 8768, 918, physics, 74
+3075, Lolosek, Mozambique, engineering, 1461, 124, 9622, honours degree, economics, 1458, 4672, 9753, 5, 8339, 1538, graph theory, 57
+9638, Rksklo, Central African Republic, economics, 8602, 9585, 1596, masters's degree, economics, 8447, 5249, 3166, 82, 9928, 2642, medicine, 78
+7966, Sek, Central African Republic, engineering, 9023, 6188, 4506, masters's degree, programming, 2115, 4241, 4617, 62, 6256, 4805, prob. theory, 61
+9339, Lolmlokolo, Guinea, engineering, 1410, 1536, 7336, masters's degree, databases, 980, 2356, 9981, 36, 8815, 6193, medicine, 23
+2316, Ziku, Ghana, engineering, 7033, 3378, 78, masters's degree, programming, 8447, 8402, 9516, 26, 2924, 5700, math, 96
+5071, Re, Libiya, engineering, 5282, 3256, 5727, doctoral degree, math, 21, 9442, 7239, 57, 3605, 9788, databases, 57
+8539, Zikukukusek, Kenya, natural science, 5343, 7172, 3385, masters's degree, foreign language, 9031, 5203, 6834, 65, 2340, 7233, economics, 77
+614, Saseksalo, Ghana, natural science, 2557, 3845, 2767, honours degree, economics, 695, 7534, 5675, 58, 4749, 4324, economics, 98
+5065, Kelm, Egypt, natural science, 4044, 4764, 1006, masters's degree, biology, 1970, 9462, 4648, 54, 4545, 1469, graph theory, 71
+7588, Susuzimeham, Guinea, engineering, 8188, 8029, 5538, masters's degree, foreign language, 4580, 9087, 4535, 1, 419, 9990, biology, 2
+9009, Koskreseku, Guinea, computer science, 5106, 965, 7146, honours degree, math, 4734, 3797, 1520, 6, 4064, 8914, physics, 88
+4332, Sesasek, Congo, computer science, 9928, 1630, 4827, masters's degree, foreign language, 6622, 7113, 2166, 67, 3347, 1050, physics, 72
+9049, Kakulmsu, Ethiopia, computer science, 1074, 927, 2046, doctoral degree, prob. theory, 8117, 4856, 3191, 10, 4903, 9177, databases, 87
+271, Reko, Egypt, natural science, 1096, 1054, 6778, honours degree, biology, 109, 9707, 2303, 2, 9792, 1031, math, 59
+5960, Sek, Egypt, computer science, 3016, 6546, 1084, masters's degree, social sudies, 35, 4300, 8357, 89, 8035, 2997, graph theory, 11
+4899, Sesk, Ghana, computer science, 9485, 4079, 2023, honours degree, foreign language, 1411, 6342, 4893, 68, 6712, 3204, biology, 13
+6079, Seso, Cameroon, engineering, 3835, 4244, 9665, masters's degree, differential eq., 8644, 4469, 3563, 57, 7473, 6793, math, 75
+3682, Ku, Egypt, economics, 439, 487, 4677, doctoral degree, programming, 1593, 4575, 8625, 96, 8192, 6238, medicine, 84
+1839, Kakalo, Congo, engineering, 7305, 5185, 4857, doctoral degree, prob. theory, 4683, 2454, 8839, 28, 4888, 8294, social sudies, 96
+1406, Merksek, Guinea, economics, 1267, 2688, 2365, honours degree, graph theory, 889, 9944, 1198, 80, 50, 7807, medicine, 93
+8787, Sk, Guinea, engineering, 5280, 5815, 8159, masters's degree, databases, 3843, 4810, 6360, 12, 6710, 1777, social sudies, 63
+8033, Ke, Congo, engineering, 5532, 7311, 398, doctoral degree, social sudies, 6090, 8559, 6582, 62, 8394, 2946, social sudies, 46
+5545, Kulmselm, Guinea, engineering, 7476, 9304, 4559, honours degree, differential eq., 8440, 5458, 5277, 2, 9853, 8238, medicine, 32
+4027, Kasume, Cameroon, foreign languages, 6141, 1945, 1123, masters's degree, economics, 6734, 1715, 5360, 22, 8728, 3925, math, 61
+3156, Lmku, Central African Republic, natural science, 225, 2774, 6679, honours degree, economics, 2615, 830, 6734, 97, 5979, 6561, differential eq., 79
+9464, Lork, Burundi, computer science, 779, 8240, 7721, masters's degree, differential eq., 7086, 1372, 5729, 38, 7733, 2171, databases, 19
+215, Zihamkako, Cameroon, natural science, 5068, 1028, 9389, doctoral degree, foreign language, 4996, 2137, 6337, 59, 7621, 9388, databases, 49
+786, Mezi, Egypt, natural science, 1247, 5974, 2516, masters's degree, prob. theory, 2107, 3056, 6573, 6, 5109, 6982, economics, 85
+3461, Seseke, Kenya, natural science, 837, 4811, 7628, doctoral degree, physics, 4867, 9870, 3410, 95, 9057, 273, biology, 73
+484, Kurkzisosu, Kenya, computer science, 6024, 1196, 7360, honours degree, economics, 1314, 8048, 9243, 7, 6748, 9455, economics, 47
+1538, Kesolmsezi, Ethiopia, natural science, 8202, 921, 8064, doctoral degree, medicine, 6487, 5269, 8184, 20, 9055, 2496, foreign language, 53
+5969, Sehamziko, Congo, engineering, 9316, 7021, 1287, honours degree, differential eq., 1046, 9489, 1317, 25, 1248, 462, economics, 11
+8384, Sa, Central African Republic, computer science, 8811, 3107, 6186, masters's degree, foreign language, 1889, 4907, 4114, 17, 635, 9652, programming, 63
+5402, Rkme, Burundi, natural science, 4873, 4425, 4589, masters's degree, programming, 5542, 6146, 3158, 14, 9490, 1489, databases, 26
+8876, Lo, Guinea, foreign languages, 8314, 221, 7644, masters's degree, economics, 3546, 6454, 4435, 57, 9708, 7361, graph theory, 88
+7176, Keko, Libiya, engineering, 1542, 3249, 4134, doctoral degree, medicine, 2049, 5544, 1457, 28, 5982, 9707, social sudies, 76
+900, Kamesesa, Central African Republic, economics, 7200, 1012, 816, masters's degree, social sudies, 7473, 4312, 6369, 43, 9358, 4078, databases, 18
+9720, Sakesasu, Burundi, foreign languages, 7600, 5585, 6919, masters's degree, differential eq., 9226, 5770, 4623, 6, 1671, 4783, differential eq., 95
+8735, Suzikalo, Libiya, engineering, 4357, 1793, 2112, masters's degree, physics, 8301, 2336, 7924, 18, 2981, 1357, economics, 49
+2916, Sekkekere, Ethiopia, computer science, 8446, 1544, 1514, honours degree, programming, 7198, 4770, 3212, 75, 3084, 9946, math, 2
+4753, Sksekeme, Egypt, natural science, 9826, 6287, 1428, masters's degree, physics, 2166, 5846, 3421, 2, 5582, 834, foreign language, 95
+4511, Rkrkmesuham, Ghana, foreign languages, 2041, 5517, 1088, honours degree, economics, 1141, 8167, 1376, 65, 1616, 4260, programming, 82
+4281, Susaserk, Central African Republic, engineering, 5372, 9970, 6357, doctoral degree, medicine, 1741, 5631, 1503, 24, 7811, 7872, economics, 39
+1237, Zilo, Libiya, computer science, 8119, 9201, 6349, masters's degree, prob. theory, 5707, 3535, 4810, 55, 6403, 5408, social sudies, 63
+8417, Sasosekre, Kenya, economics, 5160, 7384, 3958, masters's degree, graph theory, 5003, 69, 4436, 10, 3939, 7006, prob. theory, 48
+9509, Re, Libiya, economics, 8985, 751, 6950, masters's degree, prob. theory, 7019, 6912, 6244, 47, 4415, 1825, math, 5
+3916, Seksekrk, Central African Republic, computer science, 5798, 2951, 2466, honours degree, graph theory, 2150, 9726, 2616, 74, 8981, 968, differential eq., 91
+906, Kekezikusu, Libiya, computer science, 2141, 1073, 1192, masters's degree, graph theory, 9959, 7732, 4558, 29, 3104, 8629, databases, 88
+7035, Loku, Mozambique, foreign languages, 927, 6572, 3183, honours degree, differential eq., 1281, 1605, 5192, 96, 7512, 3087, physics, 46
+3083, Hamzikaso, Cameroon, economics, 4057, 9050, 1890, doctoral degree, databases, 535, 3027, 3737, 1, 1766, 4932, foreign language, 98
+1541, Ko, Kenya, engineering, 1408, 2786, 3265, masters's degree, math, 6379, 7770, 9475, 16, 9718, 1315, math, 23
+2269, Ko, Congo, foreign languages, 2231, 4746, 7610, doctoral degree, math, 1624, 6170, 8238, 11, 5162, 3114, databases, 30
+2443, Ziseloham, Egypt, computer science, 3271, 4442, 2628, honours degree, differential eq., 2603, 9429, 6407, 35, 1097, 6919, graph theory, 70
+3858, Sekko, Ethiopia, foreign languages, 2775, 7642, 609, masters's degree, biology, 6887, 9979, 7693, 93, 766, 6000, graph theory, 56
+9829, Sa, Congo, foreign languages, 3914, 9541, 8784, doctoral degree, medicine, 1262, 2482, 8915, 97, 3758, 1018, differential eq., 28
+1636, Hamhamka, Congo, natural science, 69, 5859, 5625, honours degree, math, 5898, 6477, 478, 60, 5055, 8337, medicine, 84
+7164, Sesasoka, Congo, engineering, 1076, 837, 9188, doctoral degree, databases, 4230, 5565, 1383, 64, 4812, 1852, biology, 96
+7825, Rezikolo, Burundi, natural science, 4673, 1857, 5397, honours degree, differential eq., 4837, 8305, 9909, 44, 9926, 2942, differential eq., 96
+3918, Se, Ghana, economics, 6349, 6237, 1420, doctoral degree, databases, 453, 4999, 9399, 91, 8328, 5817, biology, 39
+5470, Lm, Central African Republic, foreign languages, 3906, 835, 2369, masters's degree, math, 4493, 9768, 7544, 1, 1137, 4875, prob. theory, 66
+5262, Rezikusa, Mozambique, economics, 4345, 5718, 8723, honours degree, graph theory, 3467, 2069, 311, 40, 8915, 2451, economics, 19
+5201, Resuseksoham, Burundi, computer science, 2993, 1100, 6914, masters's degree, databases, 5131, 5984, 4659, 17, 7851, 8566, databases, 69
+3117, Memere, Libiya, engineering, 2952, 6602, 8280, masters's degree, physics, 2973, 7381, 2357, 1, 4601, 7899, programming, 54
+3915, Rklmkesa, Guinea, economics, 5209, 2387, 1829, doctoral degree, economics, 1568, 487, 1399, 79, 6047, 7511, social sudies, 89
+2753, Hamkuzisk, Kenya, natural science, 1687, 5995, 9431, doctoral degree, physics, 6384, 1728, 817, 85, 3697, 665, math, 35
+9234, Kesekkusese, Ethiopia, engineering, 2407, 3678, 5754, honours degree, differential eq., 8294, 9759, 7961, 79, 5278, 9359, programming, 50
+6383, Zi, Kenya, computer science, 9881, 446, 8652, doctoral degree, medicine, 5581, 3847, 2833, 76, 1049, 4950, databases, 63
+2989, Mezisa, Libiya, natural science, 2886, 9628, 2063, honours degree, databases, 1234, 3469, 267, 76, 5542, 1805, social sudies, 83
+2754, Lo, Central African Republic, foreign languages, 52, 1522, 2599, doctoral degree, foreign language, 7807, 3235, 1247, 81, 142, 986, prob. theory, 13
+5772, Lorkmeku, Libiya, natural science, 5089, 8871, 3701, masters's degree, programming, 347, 7605, 1381, 49, 2730, 2408, physics, 17
+7611, Sksosere, Ghana, engineering, 1613, 689, 549, masters's degree, physics, 5464, 3679, 8190, 55, 2599, 8713, prob. theory, 72
+190, Suko, Ethiopia, engineering, 690, 2803, 2342, honours degree, biology, 9128, 1376, 1964, 80, 5737, 5302, social sudies, 45
+9702, Kesek, Cameroon, natural science, 133, 2185, 654, honours degree, foreign language, 832, 7655, 7786, 82, 2557, 8435, medicine, 11
+1004, Lmrezi, Libiya, economics, 5598, 8752, 8459, honours degree, medicine, 8766, 9360, 2778, 59, 7922, 698, economics, 70
+6500, Zikeka, Egypt, natural science, 7918, 1608, 11, honours degree, social sudies, 2093, 2233, 321, 50, 3438, 5923, math, 2
+1352, Skrkskseko, Guinea, economics, 635, 1553, 5926, honours degree, economics, 3280, 9112, 4381, 2, 3620, 2499, prob. theory, 64
+7190, Kezi, Ghana, engineering, 8785, 9227, 1545, masters's degree, differential eq., 267, 6487, 5111, 22, 2816, 6635, medicine, 76
+8248, Losekzilo, Egypt, economics, 1633, 6270, 2162, masters's degree, medicine, 3116, 8749, 1442, 96, 2727, 3160, programming, 53
+3372, Kezilo, Congo, natural science, 994, 8178, 6510, masters's degree, differential eq., 612, 2855, 4438, 4, 1746, 6895, social sudies, 15
+2719, Sa, Kenya, engineering, 7260, 1895, 5795, honours degree, differential eq., 377, 6285, 5009, 61, 2180, 1637, databases, 51
+7705, Sosk, Guinea, engineering, 2787, 3417, 7735, doctoral degree, graph theory, 1196, 5690, 6216, 27, 3152, 665, math, 68
+6326, Skrksose, Cameroon, engineering, 3538, 4722, 730, doctoral degree, economics, 8104, 2231, 9137, 2, 4667, 9239, graph theory, 14
+5936, Sasureso, Mozambique, economics, 5346, 1752, 2498, masters's degree, social sudies, 5693, 4702, 8297, 49, 5750, 8009, math, 47
+2476, Rekelm, Cameroon, foreign languages, 8730, 6877, 8301, honours degree, databases, 9259, 4207, 4082, 8, 3117, 9962, biology, 22
+4610, Zilmsaskku, Kenya, natural science, 8755, 4544, 3259, masters's degree, biology, 2604, 7565, 2279, 40, 8979, 2150, social sudies, 56
+1888, Kuke, Cameroon, natural science, 9159, 2365, 8377, honours degree, physics, 7305, 3150, 8600, 75, 7059, 9336, physics, 39
+1813, Kohamsaka, Congo, foreign languages, 4480, 2695, 3115, honours degree, foreign language, 806, 6266, 2660, 56, 8024, 7641, math, 38
+3521, Mesek, Cameroon, natural science, 9471, 5022, 5237, honours degree, biology, 1867, 4419, 3563, 67, 1095, 9108, prob. theory, 92
+2934, Me, Central African Republic, economics, 3348, 5000, 9592, honours degree, programming, 845, 9805, 5236, 25, 1911, 5661, programming, 74
+6941, Kezisalo, Libiya, foreign languages, 3414, 4140, 468, honours degree, social sudies, 9525, 5578, 674, 28, 9492, 3395, math, 72
+6451, Zisosehamsek, Libiya, foreign languages, 3406, 2828, 2490, masters's degree, differential eq., 7997, 8416, 6432, 89, 1953, 7461, math, 94
+6189, Soskzi, Burundi, economics, 5891, 5959, 7712, doctoral degree, physics, 3754, 2240, 6398, 16, 2572, 838, prob. theory, 11
+4254, Reskzike, Cameroon, engineering, 7638, 7761, 9904, masters's degree, biology, 5373, 1287, 9166, 70, 6728, 7245, physics, 7
+8737, Su, Libiya, computer science, 7166, 1035, 7228, honours degree, physics, 464, 7223, 2465, 63, 4549, 831, graph theory, 54
+5440, Kuhamseksek, Ethiopia, computer science, 9816, 801, 7838, masters's degree, prob. theory, 133, 4957, 3438, 78, 9857, 6038, differential eq., 85
+1729, Hamskham, Guinea, foreign languages, 9746, 4841, 6849, masters's degree, math, 4228, 164, 2484, 88, 6741, 7583, differential eq., 4
+9034, Sekzisukozi, Egypt, natural science, 1480, 92, 4833, masters's degree, economics, 6832, 9114, 4062, 2, 2056, 2306, graph theory, 28
+5941, Sosek, Egypt, natural science, 8630, 4786, 3254, honours degree, math, 3838, 2117, 1870, 59, 4780, 3925, biology, 12
+2876, Sulmkulosa, Burundi, engineering, 8483, 271, 7399, doctoral degree, biology, 8914, 6506, 5523, 71, 8707, 6044, economics, 45
+3534, Rk, Kenya, foreign languages, 8359, 6316, 7323, masters's degree, foreign language, 8065, 182, 6571, 87, 3666, 2206, medicine, 17
+7949, Koka, Cameroon, computer science, 526, 748, 5055, masters's degree, graph theory, 9681, 4260, 1977, 9, 4175, 4649, graph theory, 47
+4787, Kemerkrk, Ethiopia, economics, 2481, 8334, 9020, masters's degree, math, 3255, 896, 9943, 21, 6998, 9183, math, 69
+3958, Lorksoko, Ethiopia, engineering, 8931, 2836, 4788, honours degree, foreign language, 3292, 2356, 5798, 29, 6936, 4459, social sudies, 8
+6849, Karezilm, Libiya, engineering, 5184, 253, 7053, honours degree, biology, 9702, 3085, 6264, 46, 8135, 2254, graph theory, 19
+9969, Kosesusulo, Ethiopia, economics, 4784, 6242, 9166, masters's degree, social sudies, 4296, 2490, 1749, 82, 948, 7665, programming, 91
+1890, Ke, Egypt, natural science, 6675, 9757, 5657, doctoral degree, physics, 1637, 3335, 5814, 1, 9051, 3633, economics, 41
+6559, Ham, Libiya, engineering, 1008, 6739, 8865, masters's degree, databases, 2908, 7629, 6290, 34, 7962, 8967, programming, 61
+2802, Zisuzi, Congo, natural science, 6712, 1833, 406, masters's degree, economics, 909, 2640, 5186, 56, 7886, 7196, foreign language, 76
+9295, Lmham, Burundi, foreign languages, 1909, 5129, 8614, honours degree, math, 2360, 5035, 2590, 89, 8064, 1749, differential eq., 44
+8779, Kosake, Ghana, foreign languages, 8902, 6573, 7319, doctoral degree, graph theory, 8811, 205, 8254, 48, 2117, 1023, biology, 16
+8777, Sekseksaka, Guinea, foreign languages, 2662, 8251, 160, masters's degree, biology, 2613, 9464, 4052, 4, 3894, 3060, social sudies, 60
+5561, So, Cameroon, foreign languages, 2764, 162, 7917, honours degree, databases, 8543, 2300, 9739, 19, 8852, 9737, social sudies, 24
+425, Kasozikoke, Egypt, economics, 2019, 4418, 1407, honours degree, biology, 7248, 2409, 272, 66, 7304, 7027, medicine, 100
+8003, Lozi, Libiya, foreign languages, 7526, 4943, 6158, masters's degree, foreign language, 9816, 3154, 813, 81, 6980, 4822, math, 27
+2082, Kuko, Guinea, engineering, 9697, 3006, 9610, honours degree, social sudies, 3948, 6278, 4169, 95, 5512, 188, social sudies, 74
+7524, Lork, Congo, computer science, 6401, 6187, 5897, masters's degree, differential eq., 1060, 4671, 1836, 67, 7629, 7895, physics, 43
+8477, Sekse, Mozambique, economics, 9316, 9476, 9933, honours degree, programming, 9009, 5559, 5609, 20, 1327, 1323, foreign language, 37
+1499, Hamrkhamme, Mozambique, foreign languages, 8668, 5852, 1565, doctoral degree, programming, 7776, 3359, 1236, 17, 6312, 7430, prob. theory, 97
+4754, Me, Egypt, computer science, 5799, 8683, 8869, masters's degree, social sudies, 8052, 1616, 2350, 61, 2301, 3127, databases, 62
+702, Reseksuzi, Ethiopia, economics, 4919, 6266, 4354, honours degree, differential eq., 613, 8340, 2152, 45, 3438, 638, prob. theory, 22
+7025, Kuham, Ethiopia, foreign languages, 7681, 9233, 7136, doctoral degree, social sudies, 5501, 4479, 9268, 41, 4823, 1351, programming, 76
+135, Skkuhamrkham, Central African Republic, economics, 1396, 3870, 9395, honours degree, databases, 9267, 1240, 5239, 40, 7838, 5780, programming, 98
+3382, Resalo, Guinea, economics, 2567, 7233, 5873, honours degree, biology, 662, 6908, 2206, 75, 4465, 5067, programming, 89
+8425, Zirkkokoku, Cameroon, economics, 7880, 146, 781, honours degree, prob. theory, 5584, 7365, 2055, 53, 2316, 9496, prob. theory, 63
+6644, Zisa, Egypt, foreign languages, 5601, 5405, 1248, doctoral degree, foreign language, 8872, 8489, 4137, 95, 6233, 9132, biology, 75
+5762, Zi, Burundi, foreign languages, 2134, 135, 2528, masters's degree, prob. theory, 3841, 2296, 6995, 89, 956, 5799, programming, 67
+2632, Sklmlohamsa, Central African Republic, computer science, 4429, 6341, 2858, honours degree, programming, 6640, 9743, 2126, 33, 1852, 49, physics, 16
+7849, Sa, Congo, engineering, 7561, 7936, 4881, doctoral degree, databases, 7170, 7119, 5686, 95, 3132, 7421, medicine, 26
+3757, Skkaka, Kenya, engineering, 9219, 7607, 6755, masters's degree, math, 3915, 8187, 5739, 28, 9336, 6332, medicine, 33
+4732, Hamsu, Congo, computer science, 7013, 630, 7306, masters's degree, medicine, 485, 803, 4436, 54, 3933, 4241, medicine, 11
+7597, Sekkalmzizi, Ghana, foreign languages, 8354, 6581, 4879, doctoral degree, databases, 5487, 615, 1204, 30, 4711, 1887, differential eq., 55
+9893, Lmkoham, Burundi, natural science, 7202, 6304, 216, honours degree, prob. theory, 5463, 3978, 5710, 30, 3319, 2310, differential eq., 40
+3270, Ku, Mozambique, economics, 8347, 9401, 9841, doctoral degree, databases, 8916, 5104, 5542, 85, 8352, 927, programming, 73
+4730, Se, Libiya, computer science, 1548, 8682, 2083, masters's degree, medicine, 4882, 3043, 4956, 89, 8432, 5658, economics, 22
+8211, Kasuhamlm, Burundi, economics, 6653, 818, 8026, masters's degree, programming, 693, 365, 8041, 29, 934, 9792, prob. theory, 95
+7770, Sozi, Libiya, natural science, 3736, 368, 9766, honours degree, medicine, 9775, 8955, 5971, 67, 6231, 6953, math, 85
+5432, Hamkakoso, Guinea, natural science, 6725, 3071, 6470, honours degree, databases, 1593, 5507, 2489, 82, 784, 6038, medicine, 50
+407, Seklm, Guinea, foreign languages, 2432, 9478, 2717, doctoral degree, differential eq., 7446, 1415, 6552, 36, 3924, 1332, biology, 24
+7801, Skkuziso, Cameroon, foreign languages, 8571, 3043, 3721, doctoral degree, math, 8929, 92, 4000, 32, 8435, 6414, differential eq., 68
+4348, Zisasekko, Mozambique, economics, 9203, 4404, 8608, honours degree, graph theory, 4604, 7135, 4586, 97, 7880, 280, programming, 79
+6695, Sklo, Ethiopia, computer science, 3983, 4002, 2948, masters's degree, math, 6453, 5701, 6830, 7, 9624, 1576, prob. theory, 10
+325, Ziku, Egypt, economics, 5692, 5683, 5638, doctoral degree, physics, 2133, 1532, 146, 11, 7533, 445, differential eq., 60
+9801, Melmhammelo, Congo, computer science, 5990, 4864, 9922, masters's degree, graph theory, 1662, 326, 81, 49, 2855, 6348, economics, 13
+660, Sakekuse, Mozambique, economics, 5149, 1438, 7631, honours degree, foreign language, 6817, 1630, 176, 35, 5444, 9413, biology, 38
+9420, Susuhamreka, Guinea, natural science, 2150, 2174, 8463, masters's degree, economics, 1253, 8948, 9024, 6, 8253, 5629, differential eq., 66
+6098, Ham, Burundi, natural science, 3892, 6517, 5524, honours degree, economics, 3902, 5733, 5321, 31, 5967, 4417, physics, 82
+8751, Kukokorkre, Libiya, foreign languages, 8487, 1059, 1379, honours degree, biology, 7066, 2909, 9129, 20, 6296, 9568, graph theory, 5
+4525, Keseseme, Ethiopia, computer science, 9213, 7481, 5228, masters's degree, math, 1549, 1337, 2140, 35, 2703, 5306, graph theory, 94
+6290, Sokeseke, Egypt, computer science, 2583, 5197, 4651, honours degree, biology, 5274, 694, 9620, 31, 1, 3704, math, 73
+5010, Ko, Cameroon, engineering, 1031, 4434, 6638, doctoral degree, social sudies, 5016, 9502, 5150, 75, 3756, 890, prob. theory, 89
+4550, Sksuloka, Burundi, economics, 3615, 206, 7486, masters's degree, graph theory, 3115, 38, 9903, 70, 1957, 1416, medicine, 26
+8863, Rekukasa, Ghana, economics, 3937, 9940, 6084, masters's degree, economics, 2886, 1282, 7150, 24, 72, 9250, foreign language, 75
+3960, Rklmko, Cameroon, engineering, 124, 9172, 2670, doctoral degree, biology, 4459, 7077, 5295, 76, 381, 7657, biology, 20
+7757, Soloham, Congo, computer science, 5603, 7722, 2346, honours degree, physics, 7194, 2366, 9984, 9, 8879, 675, physics, 82
+9536, Zilosezisu, Ghana, computer science, 4842, 1040, 3088, doctoral degree, foreign language, 4340, 8284, 1516, 2, 2661, 8757, social sudies, 16
+2168, Se, Kenya, natural science, 275, 7428, 4671, masters's degree, social sudies, 1966, 4179, 4667, 3, 769, 9125, social sudies, 4
+8392, Ku, Libiya, engineering, 9538, 2591, 4797, masters's degree, economics, 8552, 4113, 9918, 6, 7488, 3032, biology, 37
+1518, Zirekareko, Ghana, natural science, 8768, 581, 9712, doctoral degree, medicine, 9202, 9921, 4407, 80, 3520, 5266, programming, 6
+9344, Losukesek, Cameroon, foreign languages, 9543, 1829, 55, doctoral degree, social sudies, 6642, 4227, 9551, 69, 3627, 9511, social sudies, 38
+27, Kokeseka, Kenya, natural science, 7808, 7973, 9505, honours degree, math, 3904, 2215, 6773, 77, 5597, 5084, foreign language, 59
+2150, Melmhamlm, Congo, natural science, 9520, 3648, 5663, honours degree, physics, 4439, 2784, 9635, 65, 6094, 1356, databases, 89
+3312, Lozizihamko, Cameroon, engineering, 1917, 9062, 9493, doctoral degree, programming, 3951, 800, 2004, 90, 8917, 643, economics, 52
+6095, Sekreseskme, Libiya, computer science, 9945, 8325, 3471, doctoral degree, programming, 7579, 6742, 850, 71, 9919, 188, biology, 37
+3819, Saseksoso, Ethiopia, economics, 9098, 963, 481, doctoral degree, math, 3391, 3273, 304, 12, 402, 3618, physics, 53
+6282, Kumesekka, Central African Republic, economics, 2804, 6101, 9305, doctoral degree, economics, 5228, 8977, 8841, 74, 8327, 6509, math, 41
+2166, Ke, Congo, foreign languages, 8995, 7914, 7531, masters's degree, differential eq., 8818, 8156, 6202, 4, 1068, 8413, differential eq., 58
+5719, Kuskkurkre, Egypt, computer science, 3774, 8267, 932, doctoral degree, biology, 4536, 6025, 2201, 8, 7095, 1020, physics, 26
+1350, Zisekka, Burundi, engineering, 5629, 4275, 3153, masters's degree, databases, 2110, 4810, 6863, 97, 6695, 7206, math, 100
+8463, Kakose, Egypt, engineering, 9620, 6792, 3158, honours degree, social sudies, 5274, 6519, 6133, 7, 2129, 4333, math, 57
+3022, Sulolmko, Guinea, computer science, 5936, 7658, 7295, honours degree, foreign language, 5428, 2422, 3388, 41, 6215, 1377, math, 81
+4536, Komesekkake, Egypt, engineering, 3377, 3129, 532, doctoral degree, databases, 7389, 3160, 1762, 77, 5853, 6090, graph theory, 16
+1220, Susa, Cameroon, engineering, 1339, 6489, 3188, honours degree, social sudies, 1186, 842, 1682, 60, 5454, 2977, differential eq., 83
+9148, Ham, Guinea, economics, 2922, 9156, 9821, doctoral degree, foreign language, 4525, 1713, 1068, 15, 8049, 9224, foreign language, 37
+7876, Sosa, Guinea, computer science, 1507, 6067, 4150, doctoral degree, medicine, 4715, 3027, 3124, 42, 8529, 5766, graph theory, 20
+2741, Sask, Egypt, economics, 3985, 5772, 9773, honours degree, foreign language, 2154, 393, 9422, 66, 6600, 581, economics, 37
+8295, Resesare, Cameroon, computer science, 2343, 1710, 79, masters's degree, foreign language, 3676, 3062, 2714, 21, 2726, 6731, programming, 60
+7142, Mekesu, Ghana, engineering, 5368, 8949, 3461, doctoral degree, math, 170, 142, 102, 43, 8891, 3226, physics, 82
+9976, Keseskkoko, Ghana, engineering, 9549, 1555, 3930, masters's degree, foreign language, 2197, 4047, 2305, 53, 2312, 4778, programming, 100
+6099, Sukesek, Congo, natural science, 2983, 5145, 1972, doctoral degree, foreign language, 9008, 5453, 7688, 45, 4654, 1641, foreign language, 24
+2686, Sklm, Egypt, computer science, 3317, 8401, 8524, doctoral degree, social sudies, 8036, 7020, 7587, 82, 8784, 7353, foreign language, 33
+6149, Ham, Libiya, computer science, 5645, 4023, 1993, doctoral degree, physics, 8809, 3709, 6322, 1, 2168, 7469, foreign language, 21
+8321, Ham, Congo, natural science, 2862, 6862, 4487, masters's degree, medicine, 7418, 8586, 7606, 91, 6567, 1927, biology, 91
+6665, Sakeso, Ethiopia, economics, 4261, 3943, 6710, masters's degree, programming, 4053, 3091, 6841, 64, 7378, 9124, medicine, 58
+1781, Meso, Congo, economics, 2886, 5675, 8423, doctoral degree, economics, 4823, 9068, 465, 68, 7253, 5355, physics, 94
+7552, Sososehamsa, Central African Republic, engineering, 5802, 5440, 9171, honours degree, economics, 6965, 4243, 8443, 96, 1748, 9186, biology, 73
+1552, Sksasuzise, Guinea, economics, 54, 4619, 1443, doctoral degree, prob. theory, 1547, 6942, 5737, 18, 5447, 3977, biology, 36
+9660, Lokerere, Burundi, engineering, 5535, 4781, 4656, honours degree, social sudies, 8081, 6292, 1404, 24, 9253, 3751, medicine, 97
+4637, Kakosk, Kenya, foreign languages, 226, 5204, 6716, honours degree, programming, 7812, 8617, 7336, 42, 8445, 6624, physics, 37
+5837, Kakoso, Libiya, foreign languages, 9478, 64, 5705, doctoral degree, programming, 4347, 505, 1093, 57, 1179, 3244, math, 85
+4962, Suhamziku, Ghana, economics, 7670, 3463, 2128, doctoral degree, economics, 5239, 7201, 7786, 73, 1868, 2041, math, 70
+659, Lmsk, Central African Republic, natural science, 8258, 683, 1638, honours degree, differential eq., 7748, 8850, 8275, 61, 8652, 3497, physics, 17
+2025, Zi, Egypt, economics, 4656, 2905, 1268, honours degree, medicine, 390, 6842, 1537, 53, 1794, 5367, programming, 78
+5232, Kosulosk, Egypt, engineering, 503, 8266, 5124, honours degree, social sudies, 7627, 2717, 2023, 34, 2518, 2874, databases, 1
+3644, Sume, Kenya, economics, 6011, 3307, 5083, doctoral degree, economics, 1584, 7140, 9014, 20, 8954, 5624, foreign language, 5
+5375, Mesososksk, Ethiopia, economics, 563, 8136, 9503, doctoral degree, programming, 5770, 1395, 7239, 81, 5394, 9293, medicine, 11
+5596, Solmhamlmzi, Burundi, computer science, 3831, 4115, 2585, masters's degree, graph theory, 63, 6217, 3630, 53, 7472, 1677, differential eq., 12
+8016, Kasu, Cameroon, computer science, 2365, 2678, 5063, honours degree, programming, 3943, 7727, 922, 62, 6308, 2388, differential eq., 50
+1857, Loskzi, Mozambique, foreign languages, 9681, 8204, 4663, doctoral degree, physics, 500, 3337, 1542, 31, 6040, 5814, graph theory, 33
+3834, Rerkskham, Ghana, natural science, 7552, 5206, 6239, honours degree, economics, 4118, 9086, 6988, 72, 5124, 1910, prob. theory, 82
+1606, Lmsekrelm, Central African Republic, computer science, 1634, 7916, 6798, doctoral degree, biology, 7014, 5737, 5195, 4, 5030, 6240, physics, 88
+1439, Kerkkese, Ethiopia, engineering, 2013, 536, 6537, honours degree, graph theory, 6145, 6825, 12, 8, 4912, 5434, economics, 24
+5903, Zikeko, Ghana, foreign languages, 400, 796, 6447, honours degree, foreign language, 6130, 9069, 1607, 32, 7517, 5643, medicine, 39
+3887, Rk, Ethiopia, economics, 1052, 3467, 3265, masters's degree, graph theory, 5448, 5366, 7713, 16, 3433, 257, economics, 11
+9322, Kaseklo, Central African Republic, economics, 1416, 3922, 3357, masters's degree, physics, 982, 6958, 1429, 8, 2023, 9209, physics, 54
+5348, Lmse, Ghana, computer science, 176, 1342, 2119, masters's degree, economics, 4710, 7718, 6758, 57, 3142, 6286, foreign language, 2
+7401, Rksekork, Egypt, engineering, 1118, 9577, 9776, masters's degree, programming, 6751, 290, 5881, 83, 8196, 5101, programming, 56
+7104, Rklmsek, Egypt, natural science, 4876, 4340, 241, masters's degree, databases, 1227, 1988, 8154, 71, 350, 918, prob. theory, 83
+5095, Hamzisekko, Egypt, economics, 4754, 9945, 3590, masters's degree, differential eq., 3849, 6772, 7937, 32, 3381, 3509, programming, 73
+6941, Kuzisek, Egypt, economics, 1085, 3073, 8006, doctoral degree, differential eq., 2080, 6753, 1157, 52, 1390, 4624, foreign language, 96
+1333, Sakasoke, Ethiopia, foreign languages, 2722, 1955, 4509, masters's degree, foreign language, 1452, 5442, 8570, 62, 9818, 657, medicine, 39
+3994, Susek, Egypt, computer science, 1068, 4093, 6661, honours degree, graph theory, 8463, 4692, 5665, 85, 1838, 2497, foreign language, 36
+1565, Kark, Ethiopia, engineering, 8133, 4862, 9010, masters's degree, graph theory, 7936, 818, 8325, 64, 8946, 991, math, 48
+629, Hamlmke, Cameroon, economics, 4567, 5473, 5347, doctoral degree, graph theory, 6167, 9432, 9514, 19, 9851, 736, foreign language, 72
+5767, Lmskselosek, Egypt, computer science, 6632, 4036, 7553, masters's degree, foreign language, 9534, 2602, 8278, 100, 3992, 397, economics, 32
+7861, Rekosekzi, Libiya, computer science, 3843, 6505, 4458, doctoral degree, graph theory, 5010, 5326, 4088, 43, 6832, 1338, foreign language, 19
+2167, Lmkasusk, Egypt, natural science, 6780, 5393, 4354, doctoral degree, medicine, 3294, 4043, 6723, 12, 5109, 9493, biology, 99
+4845, Ko, Central African Republic, computer science, 9984, 4310, 2656, doctoral degree, graph theory, 4681, 7133, 3286, 92, 7443, 4877, economics, 64
+3366, Rklomesa, Cameroon, engineering, 6181, 5190, 6755, masters's degree, programming, 269, 259, 7920, 13, 3989, 453, graph theory, 18
+2515, Ham, Guinea, computer science, 2341, 1508, 6318, honours degree, social sudies, 8318, 8090, 8007, 36, 5828, 5767, foreign language, 86
+9459, Remesalm, Congo, natural science, 6930, 7285, 4131, doctoral degree, prob. theory, 9870, 6118, 1118, 46, 9947, 2476, programming, 31
+3741, Solm, Cameroon, foreign languages, 8383, 4258, 1829, doctoral degree, physics, 5970, 5137, 3146, 93, 7675, 1200, economics, 2
+393, Sulmselo, Egypt, engineering, 8490, 6539, 5719, doctoral degree, social sudies, 8690, 853, 1418, 56, 3528, 190, differential eq., 34
+9891, Sksolo, Ghana, computer science, 1936, 5061, 538, doctoral degree, medicine, 922, 8242, 2166, 51, 6239, 1284, programming, 79
+1760, Mekusk, Guinea, natural science, 8009, 1050, 3055, honours degree, databases, 2511, 5397, 4261, 31, 6831, 9155, databases, 100
+5708, Rese, Cameroon, natural science, 9420, 4668, 3134, honours degree, biology, 6627, 5460, 29, 44, 6287, 490, math, 100
+744, Rkloko, Kenya, computer science, 384, 604, 4223, doctoral degree, physics, 549, 9639, 6506, 61, 2501, 1034, medicine, 40
+4286, Rezilmmeko, Congo, economics, 3435, 5818, 2735, honours degree, prob. theory, 2384, 3578, 343, 62, 8524, 3341, foreign language, 8
+3533, Lososkseke, Guinea, computer science, 1290, 7062, 2911, masters's degree, economics, 460, 4695, 1616, 15, 743, 6230, math, 97
+4183, Hamkosk, Ghana, foreign languages, 5346, 1667, 5862, doctoral degree, programming, 6459, 3462, 707, 13, 7534, 553, differential eq., 36
+8915, Se, Guinea, foreign languages, 4315, 5826, 2295, honours degree, programming, 8479, 9811, 1577, 75, 3124, 8751, economics, 48
+8289, Korereko, Burundi, economics, 2410, 7976, 4174, doctoral degree, biology, 3599, 3891, 5175, 26, 9562, 6099, medicine, 33
+8635, Kahamsorerk, Congo, economics, 8052, 6272, 2035, doctoral degree, social sudies, 2740, 6278, 8235, 60, 8360, 2415, biology, 46
+5632, Skzisolm, Mozambique, economics, 17, 1947, 5605, doctoral degree, economics, 8977, 3382, 8066, 76, 8687, 4080, medicine, 60
+4798, Serk, Mozambique, economics, 6059, 249, 8276, doctoral degree, differential eq., 3657, 7548, 2592, 29, 7856, 9505, prob. theory, 24
+9630, Skrklmmezi, Cameroon, foreign languages, 2514, 162, 884, masters's degree, physics, 9565, 7318, 3675, 71, 6341, 4641, foreign language, 91
+2833, Kokokukusa, Egypt, foreign languages, 851, 2290, 5305, masters's degree, programming, 5538, 4624, 9108, 25, 7058, 9848, economics, 8
+3010, Sakusulmlo, Libiya, economics, 4858, 6277, 9181, honours degree, medicine, 6595, 6301, 564, 42, 1811, 8809, graph theory, 32
+6150, Kususeksa, Guinea, natural science, 4779, 8815, 7889, doctoral degree, math, 9494, 3152, 3128, 50, 4458, 9861, programming, 90
+9031, Sarere, Mozambique, engineering, 6371, 7476, 3267, doctoral degree, prob. theory, 3060, 3768, 9866, 5, 2180, 4906, math, 40
+3414, Rklokosksek, Central African Republic, foreign languages, 7993, 2228, 5114, honours degree, prob. theory, 2120, 9384, 3281, 44, 3074, 4467, biology, 56
+4110, Resosuso, Ethiopia, computer science, 7608, 5038, 6102, doctoral degree, medicine, 3332, 8919, 9131, 57, 1369, 3255, social sudies, 61
+629, Losasesek, Guinea, engineering, 7313, 4576, 2304, doctoral degree, foreign language, 5058, 49, 6203, 79, 4935, 8940, programming, 79
+7342, Ka, Ghana, computer science, 6391, 9270, 2665, doctoral degree, economics, 1747, 2838, 7425, 85, 460, 8056, graph theory, 43
+8693, Rkkesklo, Burundi, engineering, 9724, 9475, 5502, masters's degree, differential eq., 3950, 9559, 1961, 39, 62, 4315, prob. theory, 67
+5805, Kukarekosek, Guinea, foreign languages, 7859, 3180, 5924, masters's degree, math, 4340, 3090, 4921, 98, 37, 5641, physics, 70
+119, Skme, Congo, foreign languages, 9761, 1717, 878, doctoral degree, social sudies, 7852, 7983, 9512, 26, 898, 3571, math, 45
+6213, Kakezilm, Ethiopia, economics, 7205, 5540, 9763, masters's degree, physics, 5246, 3251, 1665, 96, 144, 9548, economics, 77
+1141, Seksek, Guinea, computer science, 9904, 6052, 5329, masters's degree, databases, 8857, 6504, 7787, 67, 8458, 3819, differential eq., 92
+8983, Sekmehamlome, Libiya, foreign languages, 6326, 9445, 7914, doctoral degree, databases, 1011, 2303, 1098, 67, 1575, 4660, biology, 21
+4077, Me, Cameroon, foreign languages, 2629, 4853, 3011, masters's degree, foreign language, 3088, 4852, 3627, 12, 1458, 8774, physics, 95
+8963, Mesalm, Mozambique, economics, 7083, 1413, 4466, masters's degree, social sudies, 339, 2109, 6122, 79, 3018, 5686, prob. theory, 10
+9531, Melose, Burundi, natural science, 9261, 784, 1956, honours degree, graph theory, 8176, 654, 9700, 10, 5161, 1265, physics, 95
+2403, Hamremeloko, Cameroon, engineering, 762, 2675, 4977, masters's degree, prob. theory, 6697, 7666, 6866, 2, 4093, 4461, programming, 90
+2231, Kokasurksk, Congo, engineering, 1862, 3742, 6236, doctoral degree, math, 9430, 5901, 5204, 28, 7661, 3496, economics, 83
+3557, Loskso, Central African Republic, economics, 8221, 3061, 1633, masters's degree, economics, 1176, 8105, 1788, 56, 3973, 8036, graph theory, 59
+2328, Sase, Burundi, natural science, 4994, 7283, 3127, masters's degree, databases, 6479, 1160, 6987, 99, 9626, 7573, economics, 40
+4027, Zi, Cameroon, foreign languages, 9289, 5211, 7434, masters's degree, graph theory, 4740, 7506, 3132, 46, 3663, 497, physics, 99
+2118, Zimekazi, Mozambique, economics, 4601, 2362, 9641, doctoral degree, graph theory, 8256, 5247, 9852, 79, 300, 4259, graph theory, 35
+4800, Ku, Ghana, computer science, 9392, 3738, 6598, masters's degree, foreign language, 5817, 6859, 661, 62, 6464, 9591, databases, 92
+7918, Sa, Central African Republic, foreign languages, 3936, 9578, 5448, honours degree, economics, 1109, 2616, 6956, 24, 5778, 9672, differential eq., 34
+2507, Melome, Libiya, economics, 8778, 8573, 1746, doctoral degree, math, 1157, 8469, 4, 70, 2153, 4705, graph theory, 2
+8720, Sohammesa, Cameroon, economics, 9928, 3236, 2971, doctoral degree, economics, 9289, 1664, 5429, 10, 4572, 5459, economics, 13
+1988, Zilo, Congo, natural science, 5047, 3587, 5201, doctoral degree, math, 9066, 350, 3541, 16, 951, 3451, medicine, 62
+5415, Zimeseksk, Central African Republic, foreign languages, 7545, 6, 120, masters's degree, foreign language, 3084, 8451, 7969, 43, 2867, 5896, differential eq., 67
+7930, Suskkurk, Libiya, foreign languages, 3685, 751, 9818, masters's degree, programming, 1911, 6392, 1069, 52, 9801, 5195, programming, 70
+6656, Rk, Libiya, computer science, 9745, 2484, 5079, doctoral degree, programming, 7659, 7152, 9783, 15, 3273, 5306, differential eq., 54
+431, Skzi, Guinea, natural science, 2615, 1425, 2972, honours degree, prob. theory, 2023, 9001, 9502, 55, 6594, 2936, graph theory, 84
+5818, Ka, Burundi, computer science, 428, 3804, 1997, masters's degree, biology, 1712, 5884, 7455, 87, 1159, 2722, biology, 12
+6567, Kasulmseksa, Ethiopia, engineering, 3341, 2336, 1302, doctoral degree, biology, 6775, 9950, 2098, 52, 2474, 4089, prob. theory, 39
+1570, Sekre, Congo, economics, 4017, 3441, 2267, masters's degree, biology, 8084, 4367, 8411, 74, 3960, 3389, medicine, 27
+175, Selokusask, Cameroon, economics, 5866, 8902, 14, doctoral degree, differential eq., 8444, 2777, 8172, 58, 9149, 797, databases, 5
+8929, Hamsa, Central African Republic, engineering, 2126, 1943, 7984, doctoral degree, economics, 1015, 752, 2552, 64, 4388, 9201, social sudies, 85
+3929, Su, Libiya, foreign languages, 5927, 706, 6539, doctoral degree, prob. theory, 7053, 8385, 6812, 87, 3061, 9087, economics, 71
+146, Me, Ghana, economics, 5006, 1910, 9754, masters's degree, graph theory, 6568, 9852, 4893, 45, 5025, 1519, biology, 9
+3196, Suseko, Central African Republic, natural science, 4846, 5037, 3354, honours degree, economics, 7736, 3886, 9489, 70, 7382, 5663, programming, 51
+1850, Skkasu, Libiya, foreign languages, 1916, 4403, 8623, doctoral degree, programming, 1178, 1151, 1271, 55, 5833, 8601, graph theory, 35
+7962, Loham, Central African Republic, economics, 8584, 5971, 3293, masters's degree, differential eq., 2574, 4201, 4559, 88, 5468, 5008, medicine, 41
+8727, Koku, Egypt, foreign languages, 2187, 9544, 4183, doctoral degree, differential eq., 6817, 5617, 1910, 11, 6667, 7094, economics, 21
+6765, Relosulo, Ghana, natural science, 9699, 4737, 7703, masters's degree, biology, 704, 1698, 5553, 36, 429, 7944, economics, 11
+7034, Reso, Burundi, natural science, 5954, 3239, 5540, doctoral degree, graph theory, 2188, 6436, 9232, 52, 7947, 2799, differential eq., 84
+2880, Melm, Ghana, economics, 7030, 5016, 8371, honours degree, programming, 311, 3129, 8463, 100, 3295, 2599, physics, 21
+5421, Mekasasek, Egypt, computer science, 169, 9158, 6678, honours degree, databases, 3259, 5116, 7134, 8, 2168, 4487, programming, 90
+3462, Rksekskseham, Burundi, economics, 8699, 292, 7235, doctoral degree, prob. theory, 1843, 2270, 9784, 36, 2668, 3773, graph theory, 87
+4799, Rkkehamham, Ethiopia, foreign languages, 3787, 7411, 2230, masters's degree, economics, 8550, 6204, 9914, 94, 472, 6402, economics, 72
+7079, Zirelm, Central African Republic, computer science, 7140, 1867, 2004, doctoral degree, physics, 667, 54, 9757, 96, 5838, 4683, databases, 75
+9909, Ko, Guinea, computer science, 6516, 797, 5311, doctoral degree, math, 1474, 8167, 2704, 14, 5827, 6575, prob. theory, 53
+831, Kaka, Cameroon, natural science, 9975, 6270, 2614, masters's degree, prob. theory, 4700, 8328, 3613, 47, 7817, 5738, databases, 92
+8825, Zimere, Ethiopia, economics, 2421, 8982, 879, masters's degree, programming, 8742, 89, 610, 11, 1705, 1309, databases, 79
+7799, Ka, Burundi, foreign languages, 2588, 1623, 178, doctoral degree, graph theory, 2293, 4683, 335, 96, 2441, 6198, differential eq., 33
+5245, Skzi, Egypt, foreign languages, 8064, 701, 4325, masters's degree, math, 2195, 9928, 1048, 21, 1610, 4985, programming, 94
+9412, Koskzilm, Burundi, engineering, 8081, 6439, 4041, doctoral degree, medicine, 7495, 7082, 3008, 68, 4537, 401, economics, 28
+1295, Rkka, Ghana, economics, 6637, 1917, 752, masters's degree, databases, 313, 2524, 4820, 88, 8522, 9785, foreign language, 92
+8839, Me, Ethiopia, computer science, 4854, 6297, 1333, masters's degree, physics, 1561, 3020, 856, 9, 3973, 3278, medicine, 94
+3767, Rkreke, Burundi, computer science, 4175, 8203, 451, honours degree, economics, 1788, 6598, 831, 86, 8867, 6870, differential eq., 81
+3064, Ke, Ethiopia, economics, 3165, 3641, 1095, honours degree, prob. theory, 5784, 4659, 4315, 29, 3846, 8667, social sudies, 23
+7189, Kukesureku, Cameroon, engineering, 427, 2796, 1771, doctoral degree, social sudies, 7666, 1651, 4338, 27, 2231, 7638, graph theory, 96
+5508, Keka, Ethiopia, computer science, 4219, 625, 7497, honours degree, physics, 7938, 7388, 7967, 61, 7317, 3853, foreign language, 67
+8381, Se, Egypt, foreign languages, 1540, 4566, 2258, masters's degree, graph theory, 6666, 3625, 8449, 47, 8253, 7725, databases, 24
+6727, Korkkumesek, Mozambique, economics, 5680, 8331, 6338, doctoral degree, physics, 5444, 1866, 5380, 28, 1652, 6717, graph theory, 11
+1295, Sokasekrkku, Ghana, natural science, 8165, 6449, 3868, doctoral degree, programming, 1180, 6004, 7427, 15, 3804, 4971, social sudies, 98
+1824, Kuke, Mozambique, engineering, 6825, 6438, 7769, doctoral degree, social sudies, 3181, 6607, 3515, 99, 4402, 2930, social sudies, 92
+9121, Sosekelo, Cameroon, natural science, 6962, 7949, 5446, masters's degree, economics, 9199, 1306, 7551, 45, 8611, 2219, foreign language, 62
+2672, Sekreseksu, Mozambique, economics, 9243, 8413, 4024, doctoral degree, differential eq., 8651, 9223, 4648, 94, 9059, 195, medicine, 96
+868, Kulo, Mozambique, natural science, 9946, 6062, 4562, honours degree, graph theory, 3755, 3136, 3914, 7, 8661, 5199, prob. theory, 77
+5446, Rkzilm, Kenya, computer science, 7079, 7446, 6328, doctoral degree, social sudies, 7181, 6920, 1515, 94, 1442, 816, medicine, 70
+3119, Lmrehamsek, Guinea, computer science, 7594, 847, 5281, honours degree, social sudies, 2889, 6933, 986, 24, 7312, 7800, medicine, 81
+2376, Hamsekkeham, Cameroon, economics, 37, 4014, 137, masters's degree, biology, 4572, 1391, 4298, 32, 7334, 6504, graph theory, 44
+385, Ziku, Libiya, foreign languages, 573, 1209, 5706, masters's degree, differential eq., 6396, 2794, 7727, 41, 2368, 4629, medicine, 34
+877, Ham, Ghana, natural science, 1944, 9557, 5489, masters's degree, biology, 1749, 997, 4315, 34, 4868, 4826, math, 34
+5548, Koskko, Central African Republic, economics, 186, 9071, 9906, masters's degree, graph theory, 7307, 8149, 5976, 87, 468, 2942, foreign language, 49
+9826, Rekaremesk, Cameroon, foreign languages, 3128, 1305, 2393, honours degree, prob. theory, 2426, 7475, 6127, 20, 9547, 5398, social sudies, 100
+3765, Se, Congo, computer science, 78, 9255, 3062, honours degree, economics, 6031, 4261, 7744, 46, 80, 8486, physics, 39
+6625, Sk, Mozambique, natural science, 2510, 5433, 9105, doctoral degree, economics, 697, 5343, 6525, 4, 250, 3283, prob. theory, 12
+3117, Lmrkku, Ghana, natural science, 7456, 6072, 3011, masters's degree, databases, 8041, 4578, 8296, 65, 3028, 5309, foreign language, 100
+3663, Zi, Egypt, engineering, 9864, 4336, 2455, honours degree, graph theory, 6822, 5852, 1389, 89, 9038, 7964, biology, 64
+7822, Hamsumezirk, Kenya, foreign languages, 8983, 7573, 7735, doctoral degree, prob. theory, 899, 2781, 8275, 85, 8602, 2832, medicine, 38
+6867, Skskmekezi, Cameroon, engineering, 9568, 678, 4460, doctoral degree, math, 426, 5168, 4416, 29, 364, 8672, differential eq., 43
+666, Zi, Central African Republic, computer science, 8493, 1493, 5616, honours degree, graph theory, 3290, 6252, 1287, 9, 4703, 7240, biology, 38
+557, Koso, Mozambique, engineering, 3126, 2013, 4974, honours degree, medicine, 4766, 3435, 9139, 65, 7944, 1838, databases, 11
+7701, Skrk, Central African Republic, computer science, 2472, 7086, 8458, doctoral degree, graph theory, 8715, 5965, 2866, 16, 2913, 5289, graph theory, 66
+4602, Ham, Ghana, natural science, 6757, 3142, 2352, doctoral degree, biology, 6513, 4570, 987, 2, 9014, 8786, graph theory, 32
+2935, Kesksoke, Mozambique, computer science, 949, 6801, 7518, masters's degree, biology, 2065, 3620, 3632, 60, 8695, 2470, differential eq., 69
+5010, Lmlm, Central African Republic, engineering, 3552, 7113, 1459, doctoral degree, medicine, 2896, 9929, 2087, 75, 5783, 844, differential eq., 69
+6738, Su, Egypt, foreign languages, 5981, 3949, 9797, masters's degree, prob. theory, 6120, 6357, 4321, 20, 4776, 6706, social sudies, 76
+1038, Kelmham, Congo, foreign languages, 5613, 1171, 7950, doctoral degree, medicine, 9335, 5715, 587, 96, 1636, 5862, economics, 21
+4487, Sosaku, Burundi, engineering, 1844, 3081, 3838, masters's degree, programming, 8093, 3281, 8410, 26, 1626, 6195, economics, 57
+5696, Skreme, Libiya, engineering, 6133, 2259, 4337, doctoral degree, math, 8805, 8790, 3993, 34, 4909, 2707, prob. theory, 73
+5552, Sesosek, Congo, natural science, 8071, 4680, 6963, masters's degree, economics, 6621, 6482, 3221, 52, 5375, 3316, graph theory, 12
+39, Re, Congo, computer science, 2071, 5592, 5186, honours degree, social sudies, 7719, 4844, 7264, 74, 9581, 1153, differential eq., 46
+101, Lomekuham, Libiya, natural science, 6566, 1711, 982, honours degree, social sudies, 1199, 6030, 9765, 97, 720, 3298, graph theory, 27
+1886, Rkrksasek, Libiya, computer science, 9288, 4109, 4230, doctoral degree, physics, 8568, 4238, 3602, 41, 1520, 2303, physics, 76
+5969, Karemesksek, Guinea, economics, 1923, 2738, 6066, masters's degree, math, 6777, 3079, 9775, 12, 2200, 6387, medicine, 16
+4878, Zizilmke, Egypt, economics, 7707, 9610, 8971, honours degree, economics, 8509, 7298, 3894, 46, 6777, 504, medicine, 59
+5235, Ka, Kenya, foreign languages, 8810, 2602, 2689, masters's degree, databases, 7131, 3585, 6470, 42, 930, 9487, medicine, 60
+2517, Solosurk, Kenya, computer science, 9056, 3763, 4363, masters's degree, prob. theory, 4109, 7022, 8044, 54, 9470, 7707, biology, 93
+7730, Lmre, Libiya, engineering, 4128, 6371, 179, masters's degree, graph theory, 7712, 9091, 471, 13, 38, 1090, databases, 79
+6193, Sekkazi, Egypt, economics, 477, 3752, 9928, masters's degree, math, 1476, 2083, 446, 14, 145, 4731, physics, 85
+41, Lolmsaham, Guinea, engineering, 6970, 9150, 7041, doctoral degree, social sudies, 3283, 8545, 9620, 59, 8391, 2071, math, 100
+4398, Lorkso, Congo, foreign languages, 7953, 5748, 2718, doctoral degree, graph theory, 8377, 1585, 480, 25, 9267, 6408, programming, 33
+9111, Sekkekaskku, Kenya, natural science, 7953, 6577, 7377, masters's degree, foreign language, 5175, 1225, 4790, 94, 6558, 5605, databases, 27
+5140, Skkomekosu, Kenya, natural science, 9307, 8918, 8208, masters's degree, prob. theory, 8498, 7634, 8016, 44, 4945, 332, graph theory, 82
+5138, Kaseksesoham, Kenya, natural science, 7892, 4526, 1466, doctoral degree, physics, 7329, 6883, 5453, 53, 2910, 2496, math, 95
+3189, Sa, Ethiopia, engineering, 5776, 5418, 8859, honours degree, differential eq., 9216, 5994, 3801, 99, 9823, 7509, foreign language, 78
+5358, Kasukusek, Guinea, natural science, 6819, 637, 1855, doctoral degree, programming, 9060, 5551, 7629, 23, 679, 1016, graph theory, 12
+2492, Mekare, Mozambique, foreign languages, 2229, 6214, 9793, masters's degree, medicine, 5269, 3712, 1213, 32, 9057, 5572, social sudies, 61
+3585, Zisoko, Guinea, economics, 6404, 7244, 3563, honours degree, biology, 2476, 1599, 184, 71, 8199, 4464, physics, 6
+5876, Sa, Cameroon, natural science, 5373, 6894, 2296, masters's degree, social sudies, 7178, 5126, 8261, 66, 517, 3345, math, 85
+6187, Lohamsekko, Central African Republic, engineering, 2602, 5822, 6070, masters's degree, social sudies, 9454, 664, 8802, 42, 6624, 8038, programming, 32
+7571, Meso, Burundi, natural science, 3408, 6553, 3931, honours degree, programming, 342, 5864, 2582, 4, 7807, 3582, math, 16
+6553, Seresarkko, Cameroon, computer science, 4884, 5353, 1603, masters's degree, biology, 1944, 4273, 9607, 73, 5042, 6068, math, 41
+3035, Lo, Central African Republic, computer science, 4126, 5883, 2990, doctoral degree, differential eq., 4766, 1797, 6824, 47, 7635, 6002, medicine, 97
+2426, Hamskkoso, Egypt, natural science, 3199, 632, 5882, doctoral degree, foreign language, 2323, 811, 2195, 85, 5056, 5150, math, 18
+6419, Me, Egypt, foreign languages, 7464, 5302, 4647, honours degree, biology, 8242, 7015, 9146, 22, 371, 5855, medicine, 45
+18, Melm, Libiya, engineering, 1923, 526, 9064, masters's degree, math, 4914, 7737, 7029, 6, 7932, 3662, biology, 52
+6230, Sekkukuko, Ethiopia, computer science, 2985, 8726, 4750, honours degree, foreign language, 2446, 736, 9585, 83, 6788, 8865, physics, 23
+4840, Lmkereham, Cameroon, foreign languages, 7631, 7048, 8347, doctoral degree, foreign language, 2397, 9438, 1297, 74, 8047, 6706, differential eq., 4
+7292, Hamhamrklmlm, Ethiopia, economics, 2168, 1333, 8411, doctoral degree, differential eq., 6342, 4000, 8384, 68, 5085, 981, economics, 13
+4214, Sekuke, Cameroon, foreign languages, 4472, 1602, 5665, honours degree, math, 7126, 549, 5507, 98, 6341, 6324, differential eq., 23
+8733, Kukeham, Egypt, engineering, 2892, 8997, 1483, doctoral degree, differential eq., 6346, 1167, 4241, 31, 2888, 1247, medicine, 33
+4923, Hamloseksu, Ghana, engineering, 3674, 2063, 3567, masters's degree, prob. theory, 8843, 609, 6983, 19, 3944, 2369, foreign language, 21
+2314, Zilokekaham, Central African Republic, computer science, 5105, 8580, 4156, doctoral degree, biology, 5605, 2170, 3543, 32, 9439, 8356, foreign language, 70
+5084, Zilokususek, Kenya, computer science, 4841, 7457, 4896, masters's degree, medicine, 7022, 495, 9212, 89, 1453, 7063, differential eq., 65
+8951, So, Burundi, foreign languages, 1600, 6904, 2096, honours degree, prob. theory, 4708, 3936, 5061, 46, 7456, 7628, foreign language, 15
+9161, Sek, Central African Republic, foreign languages, 2028, 3590, 1148, honours degree, physics, 1826, 952, 6301, 59, 9292, 4947, social sudies, 85
+8001, Skhamzisk, Ghana, natural science, 4007, 991, 8679, masters's degree, math, 6173, 1818, 2921, 85, 1953, 2000, math, 23
+7043, Kolm, Ghana, engineering, 958, 2454, 2456, doctoral degree, biology, 1608, 7580, 5386, 20, 4406, 2629, biology, 2
+9382, Suse, Libiya, natural science, 8013, 467, 3854, honours degree, programming, 2775, 1368, 7207, 2, 9233, 4926, social sudies, 70
+6910, Lmse, Libiya, computer science, 2769, 8781, 3510, doctoral degree, economics, 4504, 5413, 4395, 38, 7351, 3215, economics, 18
+6989, Kukesk, Central African Republic, foreign languages, 824, 1190, 3062, masters's degree, databases, 8017, 868, 6714, 1, 5682, 2225, programming, 24
+5858, Lokeka, Egypt, foreign languages, 2433, 4202, 5374, masters's degree, medicine, 5275, 9321, 4819, 2, 94, 28, graph theory, 24
+1208, Hamku, Kenya, natural science, 4120, 9300, 6655, doctoral degree, physics, 4387, 3370, 9088, 3, 3124, 7427, prob. theory, 58
+5763, Sk, Ethiopia, computer science, 5158, 2891, 6482, masters's degree, databases, 5220, 1478, 338, 15, 6638, 6667, programming, 91
+7969, Kelosu, Guinea, computer science, 4727, 4083, 5444, masters's degree, databases, 9605, 2747, 5348, 85, 350, 508, differential eq., 52
+7350, Sasekekulm, Cameroon, foreign languages, 6398, 625, 6924, honours degree, physics, 101, 6661, 596, 64, 6483, 3253, databases, 87
+9482, Hamrksk, Burundi, engineering, 6524, 4778, 9451, masters's degree, economics, 182, 9998, 7807, 49, 2063, 4790, economics, 73
+6168, Keseklo, Central African Republic, economics, 272, 5465, 2305, masters's degree, biology, 4870, 5231, 5739, 39, 1821, 6377, math, 10
+3233, Lmsasakesu, Kenya, natural science, 4587, 3193, 1050, doctoral degree, foreign language, 6854, 9196, 6060, 36, 3872, 9116, economics, 68
+8645, Sameselo, Egypt, natural science, 4447, 7662, 9978, masters's degree, prob. theory, 6931, 6206, 6927, 83, 7006, 2675, biology, 10
+7923, Rk, Ethiopia, computer science, 2549, 6585, 1061, masters's degree, graph theory, 8148, 768, 8299, 59, 8157, 6776, math, 92
+9659, Sulo, Central African Republic, economics, 4547, 489, 6687, doctoral degree, social sudies, 3244, 7977, 6966, 61, 1347, 452, differential eq., 79
+2941, Kekulmka, Congo, economics, 6774, 436, 1124, doctoral degree, programming, 1849, 4747, 6116, 67, 5541, 6339, prob. theory, 31
+7922, Kalmhamsk, Ethiopia, natural science, 7160, 5481, 4898, doctoral degree, programming, 3665, 2787, 4116, 89, 5979, 2001, social sudies, 97
+5619, Seksukelo, Ghana, computer science, 1557, 5901, 4213, honours degree, math, 5722, 6026, 4212, 89, 4180, 8928, biology, 8
+4511, Resekseka, Libiya, economics, 8295, 2779, 63, honours degree, biology, 5425, 2563, 8169, 98, 6822, 305, medicine, 26
+7296, Somekalm, Congo, engineering, 19, 1559, 6406, masters's degree, social sudies, 4134, 401, 1710, 91, 8955, 7503, economics, 63
+928, Rkrk, Congo, engineering, 5139, 1951, 7700, doctoral degree, social sudies, 9821, 9132, 5458, 20, 7985, 3754, biology, 94
+8914, Sekskkuse, Ethiopia, natural science, 8220, 4437, 416, doctoral degree, foreign language, 4001, 4990, 5016, 41, 8398, 1056, prob. theory, 49
+2304, Me, Libiya, natural science, 8600, 1794, 3535, doctoral degree, economics, 4782, 5656, 8966, 83, 7105, 1350, graph theory, 36
+5352, Sakuka, Ethiopia, foreign languages, 8825, 2367, 6660, masters's degree, graph theory, 4219, 6925, 9561, 100, 6821, 5575, economics, 32
+5376, Me, Mozambique, foreign languages, 1029, 2594, 1873, masters's degree, economics, 3264, 6790, 6081, 28, 964, 2777, medicine, 40
+3287, Lmsurksek, Ghana, economics, 1618, 9907, 3068, doctoral degree, economics, 1431, 5473, 662, 87, 8966, 6351, medicine, 57
+1173, Rerk, Guinea, natural science, 8604, 242, 3694, masters's degree, medicine, 8074, 1370, 6617, 50, 2855, 6060, programming, 86
+2362, Kasokome, Ghana, computer science, 7841, 5124, 3437, honours degree, programming, 8880, 827, 4329, 65, 2169, 6351, medicine, 92
+9943, Suseksek, Burundi, natural science, 8883, 8929, 5411, doctoral degree, biology, 9680, 5424, 505, 3, 7604, 5716, medicine, 38
+5422, Kehamzisu, Ghana, economics, 6908, 523, 60, honours degree, economics, 2878, 1215, 9382, 100, 4290, 5350, prob. theory, 84
+5686, Sk, Central African Republic, computer science, 6747, 7560, 3552, honours degree, economics, 8088, 4731, 2887, 5, 8625, 6316, prob. theory, 62
+6324, Sekkulmrk, Guinea, economics, 9639, 3603, 1968, doctoral degree, differential eq., 9593, 2318, 5390, 7, 2138, 9187, prob. theory, 60
+1108, Serkzilm, Congo, economics, 2803, 3153, 8983, doctoral degree, biology, 7413, 9529, 166, 32, 5171, 6357, physics, 95
+8604, Mekese, Central African Republic, engineering, 3345, 5174, 7460, doctoral degree, medicine, 3671, 8554, 1972, 95, 8455, 7966, foreign language, 36
+8816, Solo, Libiya, engineering, 6136, 863, 8732, honours degree, social sudies, 2346, 1084, 5820, 11, 2972, 3059, medicine, 66
+5130, Meku, Guinea, foreign languages, 4670, 4603, 675, honours degree, social sudies, 7638, 6610, 4307, 67, 953, 547, databases, 42
+4950, Kulorklm, Burundi, economics, 2033, 2643, 7629, honours degree, biology, 346, 7587, 8169, 44, 8808, 2274, physics, 48
+7518, So, Ghana, foreign languages, 9879, 2936, 6241, masters's degree, social sudies, 1023, 7417, 8132, 26, 7066, 7091, medicine, 53
+7407, Se, Burundi, natural science, 3459, 1445, 6274, doctoral degree, foreign language, 4275, 8359, 9789, 8, 2260, 1980, programming, 1
+7873, Sahamsk, Guinea, economics, 4843, 9256, 3115, honours degree, differential eq., 9039, 5396, 4797, 73, 4979, 9696, differential eq., 64
+9579, Mesokosa, Egypt, economics, 5924, 6358, 1037, honours degree, biology, 4788, 9711, 1437, 22, 7379, 2367, medicine, 57
+4585, Solmlmsosk, Guinea, economics, 9900, 2504, 5241, honours degree, medicine, 2229, 4428, 8183, 52, 8869, 6932, differential eq., 44
+7935, Sksa, Ghana, economics, 3590, 5221, 6401, honours degree, foreign language, 8863, 126, 338, 97, 5744, 5091, social sudies, 72
+892, Zi, Kenya, economics, 4148, 8271, 9471, masters's degree, biology, 7856, 7307, 9179, 81, 6784, 741, medicine, 49
+146, Sasesume, Congo, computer science, 9719, 7678, 2219, masters's degree, economics, 3321, 734, 8316, 88, 451, 2694, differential eq., 47
+9012, Kaku, Guinea, engineering, 5638, 810, 3186, masters's degree, physics, 4074, 7212, 3086, 15, 2697, 6473, physics, 48
+1219, Me, Libiya, natural science, 1048, 5852, 8751, doctoral degree, foreign language, 3865, 2958, 8432, 72, 7443, 6539, differential eq., 61
+4383, Lmseke, Guinea, computer science, 1728, 6378, 5083, doctoral degree, physics, 7686, 5344, 7626, 29, 507, 5817, social sudies, 51
+9566, Sksek, Cameroon, engineering, 8513, 9998, 8728, doctoral degree, databases, 6042, 4851, 9014, 30, 9605, 7144, physics, 48
+1715, Korklm, Kenya, natural science, 8697, 9419, 3337, doctoral degree, physics, 9856, 133, 9965, 90, 4241, 7889, medicine, 3
+6368, Lorksek, Libiya, foreign languages, 9718, 4348, 8439, doctoral degree, economics, 4260, 2424, 5711, 15, 3259, 5900, social sudies, 52
+2722, Sokerkkako, Ghana, computer science, 3933, 1037, 217, doctoral degree, social sudies, 8481, 479, 7950, 61, 4292, 4747, programming, 27
+1216, Keresese, Ghana, natural science, 5167, 5994, 3986, doctoral degree, foreign language, 5202, 6974, 2243, 80, 470, 7592, social sudies, 70
+8973, Kerkselm, Congo, engineering, 5556, 8911, 3639, masters's degree, programming, 7420, 917, 7278, 31, 6792, 3608, physics, 67
+1694, Kaham, Cameroon, natural science, 7081, 5529, 2769, masters's degree, medicine, 9610, 711, 3702, 33, 8905, 177, physics, 20
+6780, Sork, Kenya, foreign languages, 6125, 5602, 4134, doctoral degree, economics, 7332, 1752, 3733, 18, 8071, 878, biology, 64
+39, Kohamsekusek, Egypt, natural science, 2377, 6750, 1748, honours degree, medicine, 9062, 9498, 3910, 91, 306, 8760, differential eq., 91
+2535, Hamkaziko, Kenya, foreign languages, 1703, 7788, 347, masters's degree, medicine, 9754, 3319, 967, 75, 4661, 3123, prob. theory, 81
+5309, Sukesuka, Cameroon, foreign languages, 5477, 7613, 5949, masters's degree, medicine, 4728, 628, 2999, 17, 4787, 1910, graph theory, 80
+4211, Kezi, Libiya, foreign languages, 3040, 3938, 3489, doctoral degree, social sudies, 8207, 9131, 3714, 59, 2699, 7321, physics, 86
+3823, Hamre, Congo, natural science, 998, 9406, 2336, masters's degree, databases, 6309, 1151, 2894, 36, 3204, 8501, social sudies, 90
+4901, Reskzi, Kenya, natural science, 4174, 8231, 4941, masters's degree, differential eq., 8896, 5667, 684, 20, 4137, 5697, social sudies, 93
+7991, Resurkka, Libiya, engineering, 8515, 7314, 7715, doctoral degree, databases, 1741, 6098, 4872, 43, 98, 7340, foreign language, 10
+1286, Mekelosezi, Mozambique, computer science, 5558, 6743, 7219, masters's degree, physics, 9984, 5862, 3339, 16, 8828, 8521, physics, 62
+147, Zi, Cameroon, foreign languages, 5745, 3682, 6747, masters's degree, databases, 1417, 1386, 1488, 57, 9023, 122, medicine, 14
+2324, Sukolome, Ghana, engineering, 670, 1024, 2850, masters's degree, math, 5918, 9923, 7200, 86, 345, 9194, physics, 5
+4169, Sekmerk, Ghana, natural science, 8516, 1138, 4348, masters's degree, graph theory, 3516, 1403, 3707, 91, 7466, 8930, economics, 82
+1675, Saso, Burundi, computer science, 4430, 2240, 3354, masters's degree, differential eq., 7357, 2619, 646, 24, 9885, 7184, economics, 10
+4754, Kelome, Burundi, foreign languages, 3064, 7429, 3079, doctoral degree, graph theory, 3983, 5771, 8648, 65, 3543, 6862, foreign language, 54
+6676, Re, Cameroon, foreign languages, 2858, 6482, 3584, honours degree, databases, 2131, 6207, 9867, 67, 1909, 4117, physics, 86
+955, Susek, Egypt, computer science, 4890, 4847, 8959, masters's degree, physics, 5867, 7485, 3512, 9, 1141, 3282, programming, 57
+444, Suzilmlo, Cameroon, foreign languages, 9278, 3172, 6763, doctoral degree, differential eq., 4549, 9586, 9738, 86, 7837, 7726, programming, 43
+2074, Se, Ghana, natural science, 7639, 4652, 5341, masters's degree, differential eq., 1883, 7137, 8729, 49, 1531, 6395, prob. theory, 29
+2673, Sk, Guinea, engineering, 5243, 7925, 3720, masters's degree, medicine, 7734, 2005, 7783, 70, 1768, 403, economics, 71
+184, Sklosekrksu, Central African Republic, economics, 65, 3365, 7938, masters's degree, biology, 9445, 7367, 6632, 7, 3120, 9690, differential eq., 88
+3061, Lmresa, Guinea, economics, 9226, 7724, 1720, masters's degree, programming, 9301, 5597, 7103, 25, 9440, 2732, graph theory, 74
+4035, Lmsek, Egypt, computer science, 9446, 7523, 2663, masters's degree, medicine, 4131, 6781, 590, 83, 7913, 7189, biology, 82
+7255, Kosksoko, Cameroon, natural science, 4374, 8620, 6898, masters's degree, economics, 1744, 3931, 6574, 46, 9852, 8151, economics, 85
+4185, Sksekosekke, Egypt, foreign languages, 3204, 7109, 5077, masters's degree, programming, 6457, 674, 2990, 39, 5514, 7279, biology, 98
+2412, Lohamkesa, Central African Republic, foreign languages, 3824, 8165, 4316, masters's degree, foreign language, 6140, 273, 9094, 68, 2558, 9848, physics, 73
+7708, Skkakulmke, Egypt, computer science, 5333, 1984, 5677, doctoral degree, prob. theory, 2554, 5404, 2152, 82, 4836, 5822, databases, 31
+9974, Ko, Cameroon, natural science, 8046, 980, 3462, doctoral degree, math, 7523, 9581, 4979, 53, 3321, 7246, programming, 3
+6768, Meso, Ethiopia, economics, 4569, 3279, 1983, honours degree, physics, 269, 69, 5509, 90, 4494, 4517, medicine, 37
+9169, Kokaskka, Burundi, natural science, 319, 5468, 3084, honours degree, economics, 4135, 7802, 9108, 80, 6125, 4134, biology, 43
+6900, Sk, Libiya, foreign languages, 5609, 6393, 3432, doctoral degree, prob. theory, 672, 7483, 1104, 31, 165, 6061, economics, 55
+4598, Kokosuse, Ghana, computer science, 4203, 852, 195, honours degree, medicine, 8281, 2469, 4552, 71, 7246, 9040, biology, 59
+9879, Ku, Burundi, economics, 3661, 794, 3787, masters's degree, databases, 384, 2879, 6982, 71, 7730, 2201, prob. theory, 63
+3564, Kesek, Ethiopia, computer science, 4996, 3130, 7291, masters's degree, programming, 9862, 2668, 2489, 89, 9334, 3226, databases, 61
+3936, Kakalo, Mozambique, economics, 5265, 4349, 886, honours degree, social sudies, 6134, 3032, 775, 44, 2973, 6206, graph theory, 71
+8158, Skso, Egypt, natural science, 8406, 2317, 3525, doctoral degree, math, 8502, 2476, 1709, 47, 7564, 5177, graph theory, 5
+7283, Kalokolm, Ghana, natural science, 6615, 1707, 6964, honours degree, prob. theory, 498, 8095, 612, 48, 4974, 2708, physics, 100
+2493, Sezi, Burundi, foreign languages, 1601, 9753, 7050, honours degree, foreign language, 5378, 3668, 8082, 25, 2773, 6091, social sudies, 33
+4505, Kukasekre, Egypt, computer science, 4076, 7917, 7885, masters's degree, programming, 5230, 3848, 2238, 46, 877, 4952, physics, 18
+4170, Kasa, Egypt, economics, 5951, 4420, 6560, honours degree, biology, 5990, 5523, 1927, 49, 2634, 3067, medicine, 62
+6505, Hamsasek, Central African Republic, foreign languages, 5999, 7197, 7940, masters's degree, economics, 9647, 1711, 2938, 8, 383, 5748, graph theory, 14
+9237, Ka, Ethiopia, natural science, 6566, 6759, 7789, masters's degree, social sudies, 9795, 6665, 5616, 7, 9841, 7111, medicine, 54
+1979, Losasusk, Guinea, economics, 4277, 426, 9818, doctoral degree, graph theory, 85, 2867, 2606, 34, 6889, 3961, medicine, 48
+6142, Mesu, Mozambique, engineering, 8024, 4844, 2793, doctoral degree, differential eq., 1385, 9069, 9737, 38, 6829, 9089, economics, 53
+1935, Reziso, Libiya, foreign languages, 1613, 6148, 1575, honours degree, prob. theory, 3974, 4676, 7927, 27, 9943, 7945, prob. theory, 74
+9429, Zihamrememe, Ghana, foreign languages, 5194, 4276, 8022, doctoral degree, math, 353, 7285, 891, 44, 1882, 2708, math, 44
+1595, Rksa, Egypt, natural science, 7150, 9994, 2169, masters's degree, social sudies, 515, 8005, 4104, 26, 7802, 8015, economics, 66
+2816, Kakalmsklo, Guinea, computer science, 285, 4499, 2212, doctoral degree, foreign language, 2425, 2904, 2357, 8, 4143, 6721, prob. theory, 91
+3114, Ku, Cameroon, engineering, 7817, 4296, 3578, honours degree, foreign language, 8717, 7384, 5166, 8, 481, 5029, programming, 70
+8409, Sare, Congo, engineering, 66, 4513, 9762, honours degree, foreign language, 7163, 6743, 9275, 33, 5911, 8082, biology, 82
+4926, Surk, Ethiopia, foreign languages, 7630, 6171, 5629, doctoral degree, medicine, 337, 479, 8823, 87, 5884, 2593, physics, 32
+5423, Seko, Libiya, natural science, 6913, 6650, 7274, masters's degree, prob. theory, 9846, 2589, 2917, 54, 5327, 4461, medicine, 60
+4804, Hamlmkasosu, Congo, foreign languages, 2061, 2098, 5200, masters's degree, graph theory, 2392, 5356, 5643, 24, 8660, 7085, social sudies, 94
+2032, Surk, Ghana, computer science, 2088, 6412, 1317, masters's degree, social sudies, 8354, 2357, 506, 62, 5751, 985, social sudies, 81
+302, Losork, Ethiopia, engineering, 7552, 7857, 8387, doctoral degree, biology, 809, 4733, 120, 12, 9013, 9420, foreign language, 19
+4158, Sezi, Libiya, engineering, 4803, 3119, 2540, honours degree, differential eq., 7526, 991, 1139, 55, 8377, 5516, graph theory, 23
+587, Resu, Congo, natural science, 1162, 6005, 1640, masters's degree, foreign language, 3039, 4276, 834, 4, 6269, 5982, math, 17
+5409, Sosu, Ethiopia, engineering, 1491, 1327, 5019, honours degree, graph theory, 6511, 3696, 7834, 36, 7281, 5864, biology, 69
+4658, Rk, Ghana, natural science, 4031, 2977, 5654, honours degree, programming, 5519, 6361, 9312, 30, 3859, 5436, medicine, 64
+6355, Sosulmsu, Cameroon, economics, 7365, 2014, 3528, honours degree, math, 5337, 3259, 9139, 59, 4911, 3164, databases, 77
+4894, Losusu, Burundi, economics, 2810, 4100, 1233, honours degree, graph theory, 6890, 2216, 4371, 42, 7542, 5425, prob. theory, 86
+5164, Lmkerksu, Kenya, foreign languages, 2866, 7308, 726, honours degree, physics, 2156, 3252, 8876, 13, 2095, 508, graph theory, 80
+2652, Mesusk, Burundi, economics, 6410, 4949, 4275, masters's degree, databases, 7559, 9163, 3846, 23, 4527, 8289, differential eq., 99
+6443, Lmkokozizi, Ethiopia, economics, 8780, 8053, 3967, doctoral degree, programming, 4727, 6256, 3222, 23, 8953, 14, social sudies, 4
+7172, Kemesosek, Cameroon, economics, 2055, 9279, 825, honours degree, prob. theory, 3291, 306, 8814, 94, 1661, 6383, biology, 88
+8817, Lmzirkkoka, Guinea, economics, 32, 8774, 560, masters's degree, databases, 8316, 1028, 3930, 63, 8295, 7565, medicine, 6
+5237, Re, Guinea, natural science, 9911, 4775, 8444, masters's degree, math, 2169, 1906, 9275, 34, 9970, 7577, differential eq., 58
+9191, Kokakusa, Ethiopia, foreign languages, 989, 4614, 3417, honours degree, differential eq., 7912, 6590, 1023, 38, 6203, 6227, prob. theory, 44
+9773, Kusaskzi, Kenya, natural science, 2800, 5332, 5692, masters's degree, social sudies, 9509, 4775, 6125, 68, 7965, 7311, databases, 25
+6484, Ham, Libiya, economics, 3679, 6851, 8230, doctoral degree, physics, 1205, 831, 1172, 72, 6557, 8118, social sudies, 86
+2095, Sosakemesk, Kenya, economics, 6463, 9167, 4739, honours degree, foreign language, 3472, 1286, 3552, 49, 2127, 8298, economics, 46
+3986, Susehamham, Ghana, engineering, 283, 3846, 4452, doctoral degree, differential eq., 1933, 6035, 745, 4, 7202, 1847, biology, 67
+6973, Sa, Congo, economics, 1525, 4958, 8347, honours degree, differential eq., 2210, 4072, 8306, 44, 2473, 9796, physics, 49
+6008, Rekalmkeko, Kenya, computer science, 2640, 1263, 9461, honours degree, social sudies, 1508, 7975, 4687, 44, 9626, 7712, foreign language, 40
+8287, Ko, Ghana, economics, 4068, 9222, 5711, honours degree, programming, 5680, 3326, 8544, 48, 9755, 9747, foreign language, 12
+3144, Lm, Ethiopia, engineering, 4090, 2241, 4682, doctoral degree, graph theory, 9676, 6005, 8238, 91, 4315, 7123, biology, 22
+5668, Kelmkososu, Cameroon, economics, 5272, 3901, 2562, doctoral degree, economics, 5556, 825, 381, 30, 8453, 8371, differential eq., 27
+8262, Kokolmsosk, Central African Republic, foreign languages, 9286, 9440, 6674, honours degree, physics, 4839, 3320, 5998, 69, 9584, 582, biology, 20
+7082, Reko, Libiya, computer science, 303, 4494, 4278, honours degree, medicine, 8121, 3088, 521, 67, 6364, 581, math, 15
+9118, Zise, Ethiopia, natural science, 9382, 2474, 7841, masters's degree, databases, 349, 3940, 7672, 76, 5845, 4447, graph theory, 20
+7352, Kasek, Cameroon, computer science, 4717, 8599, 6013, honours degree, social sudies, 319, 9440, 1571, 26, 9754, 3392, foreign language, 21
+5184, Rk, Cameroon, engineering, 5160, 1512, 4605, masters's degree, social sudies, 8411, 1920, 5815, 15, 9885, 3183, physics, 78
+8372, Kasure, Ghana, economics, 5159, 1273, 4775, masters's degree, prob. theory, 2786, 445, 3402, 20, 8925, 5325, medicine, 40
+794, Kusekkumelm, Ethiopia, foreign languages, 9688, 7353, 5775, masters's degree, physics, 2595, 1014, 2551, 50, 3665, 739, math, 39
+7349, Suso, Cameroon, natural science, 6007, 7004, 625, masters's degree, databases, 3815, 9299, 546, 45, 372, 2047, math, 94
+6560, Re, Burundi, economics, 871, 6885, 1841, masters's degree, biology, 1718, 1979, 8116, 58, 3445, 9802, graph theory, 51
+5455, Resekku, Central African Republic, computer science, 5256, 9752, 1307, honours degree, math, 1377, 1531, 1711, 1, 6937, 2542, prob. theory, 50
+6792, Sa, Guinea, engineering, 8823, 4329, 2135, doctoral degree, economics, 7921, 4723, 7166, 59, 5759, 8299, differential eq., 65
+625, Rkresu, Burundi, foreign languages, 2048, 9043, 1787, honours degree, medicine, 8571, 3880, 1851, 54, 5362, 1950, math, 59
+3911, Zizisekke, Cameroon, natural science, 1678, 8620, 199, doctoral degree, economics, 3715, 8833, 4456, 71, 9911, 5623, physics, 96
+9275, Su, Egypt, economics, 4596, 2624, 1832, masters's degree, graph theory, 9746, 7045, 2742, 53, 6589, 3598, social sudies, 67
+3485, Seksekrekako, Burundi, economics, 5362, 606, 2989, masters's degree, biology, 8108, 2676, 9951, 22, 9638, 1576, prob. theory, 44
+6696, Lmsek, Burundi, computer science, 5493, 3206, 815, doctoral degree, foreign language, 3276, 50, 1856, 63, 5830, 5636, databases, 29
+2377, Lokesame, Kenya, economics, 2468, 6262, 8301, doctoral degree, biology, 7652, 1594, 1471, 12, 1821, 877, math, 84
+7590, Mesaham, Burundi, natural science, 1320, 1193, 6424, doctoral degree, foreign language, 3866, 8277, 7285, 94, 4540, 7188, social sudies, 80
+768, Se, Central African Republic, economics, 1163, 9955, 6629, honours degree, programming, 9300, 6211, 4351, 91, 1656, 7834, physics, 71
+8288, Re, Central African Republic, economics, 9575, 9260, 713, doctoral degree, math, 181, 95, 3109, 36, 9336, 1267, databases, 47
+690, Kukohamka, Kenya, computer science, 1400, 4326, 8687, doctoral degree, graph theory, 2744, 7777, 9457, 80, 2797, 5055, social sudies, 46
+6548, Keskrksek, Egypt, economics, 1071, 1340, 8862, doctoral degree, graph theory, 5903, 4124, 1236, 36, 8903, 3899, math, 61
+9542, Re, Ethiopia, economics, 7950, 6440, 2371, masters's degree, foreign language, 5211, 2373, 6584, 9, 9132, 7329, medicine, 27
+7694, Ka, Libiya, economics, 7696, 8247, 3275, doctoral degree, biology, 34, 1186, 2771, 100, 1224, 3186, differential eq., 18
+2921, Ziseksusa, Egypt, computer science, 5237, 3619, 3774, honours degree, foreign language, 8497, 609, 6174, 17, 1445, 8843, math, 67
+8773, Ko, Cameroon, foreign languages, 7377, 7892, 6923, masters's degree, foreign language, 5946, 9162, 501, 32, 8928, 1211, programming, 77
+9381, Lmsoseksoso, Ghana, engineering, 6781, 2116, 1841, masters's degree, biology, 3312, 687, 5597, 6, 4401, 205, graph theory, 19
+9626, Kore, Kenya, foreign languages, 6355, 4365, 6057, honours degree, programming, 6731, 3943, 4123, 87, 5005, 6433, programming, 55
+9199, Ke, Egypt, foreign languages, 4126, 2707, 8541, doctoral degree, foreign language, 3782, 963, 1447, 26, 2765, 7627, math, 55
+2517, Rklosekrkzi, Congo, natural science, 4696, 8573, 7264, honours degree, differential eq., 6505, 1263, 613, 87, 9778, 5721, graph theory, 87
+541, Sore, Central African Republic, foreign languages, 7971, 1389, 9476, doctoral degree, differential eq., 7770, 7914, 8786, 56, 4233, 6898, physics, 33
+4759, Hamzirklm, Cameroon, foreign languages, 7218, 8430, 7440, masters's degree, foreign language, 4243, 612, 9206, 94, 5413, 5935, physics, 18
+4056, Ko, Cameroon, engineering, 4784, 1824, 6358, doctoral degree, physics, 860, 9503, 7583, 71, 3417, 5106, differential eq., 52
+8958, Rklokesek, Kenya, foreign languages, 6000, 4662, 1985, masters's degree, math, 4254, 195, 9475, 95, 5201, 6180, prob. theory, 64
+6875, Kekesa, Mozambique, natural science, 6178, 8475, 1401, masters's degree, economics, 6897, 5309, 5794, 12, 3449, 5197, prob. theory, 58
+2011, So, Ghana, natural science, 6210, 4785, 4549, honours degree, graph theory, 3621, 8266, 9544, 13, 9633, 8306, graph theory, 75
+1706, Mesuselm, Congo, engineering, 3569, 8842, 3607, honours degree, differential eq., 7195, 8310, 5909, 46, 9234, 9684, databases, 100
+4073, Sekmerelo, Egypt, computer science, 324, 6903, 8479, honours degree, math, 4449, 4195, 2797, 47, 4091, 927, math, 96
+3932, Hamlmkesekrk, Guinea, computer science, 1419, 3168, 6733, honours degree, biology, 1147, 2979, 7706, 81, 9273, 64, foreign language, 17
+9536, Skku, Ethiopia, foreign languages, 5961, 2762, 2970, masters's degree, math, 2268, 9425, 7304, 80, 2233, 3570, differential eq., 97
+4876, Lmlm, Congo, economics, 848, 8345, 3172, doctoral degree, biology, 4505, 5983, 2200, 88, 4941, 1078, programming, 73
+7889, Lo, Kenya, computer science, 1645, 6965, 7665, doctoral degree, social sudies, 6898, 6244, 1256, 97, 9119, 197, social sudies, 45
+1912, Hamko, Ethiopia, foreign languages, 7193, 3757, 597, masters's degree, medicine, 5449, 7442, 8205, 94, 434, 5187, economics, 16
+9093, Rk, Ethiopia, foreign languages, 761, 4994, 7090, masters's degree, physics, 2725, 3495, 4188, 20, 2184, 4674, differential eq., 35
+4486, Mesosek, Egypt, foreign languages, 8916, 380, 8355, masters's degree, economics, 4551, 777, 1287, 85, 9414, 2777, graph theory, 34
+4427, So, Guinea, engineering, 4131, 369, 2327, masters's degree, graph theory, 6284, 200, 7840, 76, 9280, 8057, social sudies, 99
+9548, Resolmlo, Ethiopia, foreign languages, 9497, 4644, 5527, masters's degree, differential eq., 9775, 989, 5958, 53, 5223, 3459, differential eq., 93
+2463, Keka, Guinea, foreign languages, 8159, 6570, 3715, masters's degree, medicine, 4520, 1104, 1553, 85, 5095, 9226, medicine, 64
+5399, Suskzika, Ethiopia, engineering, 2596, 4522, 8883, masters's degree, economics, 8162, 6304, 7598, 52, 6424, 6786, medicine, 46
+322, Hamlm, Ghana, natural science, 6189, 1971, 3166, doctoral degree, medicine, 4848, 5737, 9728, 57, 2485, 7935, programming, 40
+7031, Kusuremesu, Congo, computer science, 6229, 3658, 3817, honours degree, medicine, 4540, 6584, 6282, 87, 8291, 5162, programming, 10
+7884, Kehamse, Burundi, foreign languages, 2309, 9706, 180, masters's degree, prob. theory, 6427, 9369, 4660, 96, 5206, 7387, physics, 56
+7689, Lolo, Egypt, natural science, 5171, 9896, 4623, masters's degree, social sudies, 668, 8817, 2498, 30, 5619, 1902, social sudies, 70
+5714, Su, Egypt, engineering, 3716, 5389, 5172, masters's degree, social sudies, 650, 3706, 2313, 64, 3675, 1746, databases, 8
+3826, Sakame, Kenya, natural science, 2778, 9966, 1293, honours degree, graph theory, 1443, 2713, 9663, 100, 7277, 3748, medicine, 97
+4908, Sklozimese, Egypt, economics, 9108, 1478, 5647, honours degree, social sudies, 485, 3570, 9176, 70, 1966, 3771, economics, 88
+8642, Skko, Ghana, engineering, 5380, 4516, 8998, masters's degree, math, 9174, 5759, 2540, 36, 9838, 9498, databases, 12
+1596, Hamzise, Egypt, foreign languages, 3694, 9143, 7918, doctoral degree, biology, 6291, 9428, 831, 37, 1158, 3835, economics, 47
+2233, Salmre, Egypt, natural science, 419, 7335, 96, doctoral degree, prob. theory, 6710, 2720, 7339, 50, 5822, 767, medicine, 64
+3409, Lmsamelo, Guinea, computer science, 8039, 2273, 4193, honours degree, biology, 3711, 4278, 179, 87, 4142, 8510, foreign language, 17
+4294, Ka, Guinea, foreign languages, 586, 9470, 2871, doctoral degree, differential eq., 291, 9652, 2813, 62, 6417, 625, economics, 72
+3356, Re, Ethiopia, foreign languages, 926, 3971, 7825, doctoral degree, databases, 9930, 7321, 1922, 12, 6435, 6888, differential eq., 15
+5075, Lo, Congo, computer science, 798, 7847, 9860, doctoral degree, prob. theory, 2369, 2808, 7205, 1, 4808, 1301, foreign language, 53
+405, Lmko, Mozambique, engineering, 9727, 7557, 11, honours degree, economics, 7065, 4622, 2811, 4, 8796, 2934, social sudies, 69
+8237, Skse, Egypt, foreign languages, 3303, 688, 853, masters's degree, biology, 3361, 7696, 7416, 70, 5642, 5589, social sudies, 40
+1843, Sk, Central African Republic, economics, 3443, 5901, 7359, honours degree, biology, 6460, 3373, 5630, 83, 1552, 606, databases, 28
+9796, Hamkelm, Egypt, engineering, 1804, 7241, 8640, honours degree, economics, 8488, 621, 872, 36, 9917, 5211, foreign language, 64
+8058, So, Cameroon, economics, 4160, 4038, 4099, doctoral degree, databases, 7950, 1194, 5649, 58, 7945, 2505, economics, 48
+1187, Seksu, Ethiopia, engineering, 4254, 4594, 2555, honours degree, differential eq., 5710, 1019, 7682, 72, 6034, 9861, math, 44
+1155, Sekkosoko, Ethiopia, computer science, 1581, 7314, 7543, honours degree, prob. theory, 2279, 2096, 5084, 18, 4374, 3255, physics, 20
+9935, Losokesek, Libiya, engineering, 1833, 181, 1245, doctoral degree, databases, 8212, 9739, 9151, 99, 3083, 2633, databases, 79
+1923, Skhamkusu, Cameroon, economics, 7384, 1671, 4822, doctoral degree, prob. theory, 7711, 7017, 3163, 28, 2535, 4918, social sudies, 51
+6443, Sksukosek, Congo, foreign languages, 6347, 6903, 7173, doctoral degree, differential eq., 8684, 4233, 3379, 4, 1948, 7221, databases, 43
+315, Zisusekreku, Ethiopia, foreign languages, 5820, 2080, 5378, masters's degree, physics, 8943, 8572, 772, 4, 6020, 345, math, 30
+9626, Seka, Guinea, natural science, 8082, 1872, 8069, doctoral degree, prob. theory, 6052, 6572, 2493, 1, 1048, 1418, differential eq., 69
+1706, Relokome, Congo, engineering, 3546, 7894, 8289, doctoral degree, math, 2711, 9104, 9550, 23, 5312, 4838, physics, 100
+957, Mesekkakoke, Kenya, engineering, 9110, 9451, 6078, masters's degree, databases, 2025, 4234, 5194, 19, 6816, 9938, math, 6
+3241, Keka, Egypt, computer science, 897, 177, 6666, honours degree, math, 3281, 2238, 4005, 53, 2442, 3537, databases, 2
+8516, Sekark, Libiya, economics, 6439, 8128, 24, doctoral degree, physics, 2579, 9647, 5994, 3, 7954, 2211, physics, 42
+4100, Sukukeke, Cameroon, computer science, 3120, 7801, 1345, honours degree, foreign language, 6761, 6466, 7310, 96, 9920, 3297, physics, 82
+475, Lokase, Guinea, economics, 7059, 6162, 5713, masters's degree, physics, 6398, 8708, 6213, 40, 6365, 8057, economics, 93
+7601, Kerk, Libiya, natural science, 1676, 2120, 3857, honours degree, prob. theory, 6392, 1600, 6132, 47, 9525, 1069, medicine, 66
+507, Meremeku, Burundi, computer science, 9150, 1213, 4832, doctoral degree, differential eq., 622, 7075, 9435, 28, 8456, 535, social sudies, 87
+8965, Kesususosk, Guinea, foreign languages, 8310, 9697, 5114, honours degree, databases, 8402, 6338, 4126, 38, 48, 6698, biology, 82
+987, Rksasa, Congo, engineering, 4353, 9148, 6321, doctoral degree, economics, 4737, 9665, 3147, 92, 8727, 6216, graph theory, 27
+6908, Sumesehamku, Ethiopia, foreign languages, 251, 4293, 5313, masters's degree, math, 9932, 3390, 4685, 74, 2802, 3280, foreign language, 73
+7354, Sekkesek, Burundi, engineering, 1031, 7080, 8730, honours degree, databases, 5581, 5650, 93, 92, 1154, 4936, databases, 59
+6279, Surk, Burundi, natural science, 2949, 8319, 9432, masters's degree, differential eq., 2200, 6945, 2486, 35, 9287, 1319, differential eq., 52
+8781, Kaham, Libiya, economics, 1623, 6946, 7972, honours degree, databases, 4182, 8068, 6232, 18, 5514, 9955, math, 80
+8678, Sasuhamsk, Cameroon, foreign languages, 4010, 938, 969, masters's degree, databases, 7103, 6534, 2177, 59, 55, 7568, prob. theory, 53
+4413, Kuzikosk, Kenya, computer science, 8319, 1703, 5985, masters's degree, differential eq., 2999, 3631, 6394, 6, 1224, 9278, social sudies, 77
+3601, Skrk, Mozambique, economics, 9402, 3153, 4936, masters's degree, social sudies, 5751, 8336, 9464, 76, 3811, 2628, differential eq., 22
+9438, So, Burundi, economics, 4636, 8328, 313, honours degree, databases, 3501, 6416, 8142, 12, 4326, 4100, graph theory, 34
+1200, Kokasosk, Cameroon, engineering, 6766, 6000, 1557, masters's degree, databases, 9550, 2853, 4229, 38, 1645, 5908, prob. theory, 98
+7475, Lork, Mozambique, computer science, 2162, 6295, 4753, honours degree, medicine, 6164, 115, 3493, 38, 4227, 8792, prob. theory, 8
+8226, Sokokulmlo, Ethiopia, computer science, 2596, 4374, 1826, honours degree, biology, 6525, 4492, 2009, 14, 9513, 4379, foreign language, 62
+9680, Sekskseku, Egypt, natural science, 1145, 9677, 8033, masters's degree, graph theory, 8765, 1836, 3995, 55, 5669, 4014, social sudies, 78
+1343, Kamehamsare, Burundi, natural science, 2829, 7690, 7368, honours degree, graph theory, 3782, 1177, 930, 67, 6083, 2501, math, 17
+1499, Sere, Egypt, engineering, 5052, 7290, 9292, honours degree, biology, 2620, 5788, 6633, 22, 3465, 4347, foreign language, 1
+6636, Zirksksusk, Central African Republic, economics, 8234, 6935, 4887, doctoral degree, social sudies, 754, 547, 9030, 72, 6205, 9546, biology, 82
+2207, Salokuham, Ghana, foreign languages, 3797, 8607, 48, honours degree, prob. theory, 6658, 7947, 4445, 70, 7824, 2101, differential eq., 80
+9061, Zisoku, Burundi, foreign languages, 829, 6005, 7293, doctoral degree, physics, 9426, 544, 4763, 15, 3043, 9283, physics, 96
+4044, Sk, Mozambique, computer science, 4103, 8502, 7887, masters's degree, differential eq., 9428, 5688, 9165, 98, 3882, 5427, prob. theory, 20
+3515, Meseksulmse, Ghana, economics, 1572, 7114, 2536, doctoral degree, differential eq., 4616, 4655, 6337, 72, 1728, 2019, programming, 92
+7765, Zimemesome, Egypt, computer science, 4552, 5014, 5390, honours degree, physics, 8116, 2769, 5952, 26, 3475, 8601, social sudies, 51
+5896, Kokako, Ethiopia, computer science, 9607, 3367, 5618, doctoral degree, graph theory, 478, 3461, 8345, 83, 1183, 2380, graph theory, 91
+2499, Ko, Central African Republic, computer science, 6033, 7686, 6989, doctoral degree, prob. theory, 9602, 4650, 672, 97, 2048, 6130, medicine, 30
+7761, Sokukuhamko, Libiya, foreign languages, 1337, 1995, 2593, doctoral degree, graph theory, 3090, 6203, 4053, 18, 8998, 6884, differential eq., 90
+6551, Sesalo, Central African Republic, engineering, 6004, 9833, 8423, masters's degree, math, 7886, 6765, 5325, 76, 9684, 9163, medicine, 62
+6559, Se, Guinea, economics, 4363, 7111, 6569, honours degree, prob. theory, 5840, 8835, 3814, 17, 5387, 7479, foreign language, 58
+2848, Soko, Cameroon, computer science, 1191, 6121, 168, masters's degree, differential eq., 6489, 5062, 4132, 59, 8396, 574, programming, 69
+2035, Lmmerksulm, Egypt, foreign languages, 370, 2963, 8401, masters's degree, databases, 8920, 3282, 1601, 47, 942, 5124, differential eq., 53
+8236, Lo, Burundi, computer science, 9577, 5125, 5201, honours degree, math, 3059, 7117, 8166, 52, 9774, 2233, math, 70
+870, Hamse, Burundi, foreign languages, 8814, 3913, 754, doctoral degree, math, 2010, 7643, 2228, 68, 6342, 4127, economics, 24
+9950, Hamrkmeka, Kenya, computer science, 4959, 6348, 6230, masters's degree, programming, 415, 5101, 9947, 4, 8483, 646, prob. theory, 44
+2364, Sezi, Ghana, economics, 6876, 4768, 4130, doctoral degree, foreign language, 1191, 4348, 9941, 60, 4688, 6802, medicine, 47
+678, Kukalmke, Ghana, engineering, 7520, 8841, 5868, doctoral degree, foreign language, 7326, 4476, 2946, 1, 7857, 2500, social sudies, 78
+34, Kulmlo, Burundi, natural science, 6210, 362, 4599, honours degree, programming, 9694, 8446, 3638, 42, 6157, 4067, biology, 2
+999, Sezirekoku, Mozambique, economics, 1967, 7996, 2791, masters's degree, foreign language, 5073, 4287, 7973, 3, 7669, 1119, prob. theory, 58
+3773, Seksasukurk, Cameroon, economics, 3039, 5582, 3565, masters's degree, math, 9095, 9232, 8746, 98, 5575, 8763, social sudies, 10
+1281, Skhamzilmlm, Congo, engineering, 5705, 567, 8211, honours degree, physics, 7959, 674, 824, 73, 4688, 5284, differential eq., 22
+4060, Mesasuham, Libiya, economics, 3028, 325, 1108, honours degree, social sudies, 3523, 2624, 2482, 28, 985, 5450, economics, 54
+5774, Soham, Guinea, natural science, 3759, 884, 5204, honours degree, programming, 2337, 6759, 8940, 93, 5683, 5197, programming, 16
+6645, Lo, Ethiopia, economics, 5281, 785, 9250, doctoral degree, differential eq., 237, 9660, 7127, 90, 729, 8677, databases, 27
+9441, Suskkokasu, Ethiopia, engineering, 7352, 4685, 637, doctoral degree, graph theory, 6710, 3157, 6633, 54, 7989, 7511, graph theory, 79
+4126, Reko, Central African Republic, computer science, 4633, 3833, 7447, honours degree, differential eq., 5884, 72, 3963, 71, 7536, 8549, programming, 31
+5459, Sase, Kenya, computer science, 1019, 8272, 608, honours degree, economics, 512, 7400, 8201, 77, 2517, 1211, economics, 28
+878, Sehamskku, Egypt, engineering, 1686, 1069, 5849, masters's degree, differential eq., 8658, 8169, 78, 79, 3960, 5388, math, 52
+6579, Ku, Egypt, foreign languages, 7, 3856, 2445, masters's degree, biology, 2381, 9563, 7782, 12, 5359, 2929, graph theory, 43
+5716, Sasek, Kenya, natural science, 9717, 5240, 4252, doctoral degree, graph theory, 3628, 6021, 7782, 22, 2594, 5276, social sudies, 35
+6894, Sarkrk, Cameroon, economics, 9073, 6761, 5956, doctoral degree, programming, 3470, 9072, 7889, 65, 7729, 5072, math, 83
+9641, Sorklolmse, Burundi, natural science, 2492, 8867, 2224, doctoral degree, biology, 4201, 8489, 335, 59, 8480, 8978, biology, 96
+5220, Skme, Mozambique, engineering, 7999, 699, 9415, doctoral degree, math, 859, 4337, 7561, 13, 3414, 2586, economics, 54
+6362, Semeku, Congo, engineering, 1521, 6688, 2003, doctoral degree, graph theory, 2127, 922, 2989, 91, 2834, 7892, economics, 39
+6826, Hamhamzikesu, Ethiopia, engineering, 3519, 1447, 3548, masters's degree, foreign language, 5624, 1801, 9309, 60, 4691, 9176, economics, 73
+6275, Hamsekskham, Egypt, computer science, 709, 3844, 7414, doctoral degree, economics, 9834, 5805, 6518, 50, 4867, 9823, social sudies, 71
+6410, Seksuke, Kenya, natural science, 423, 9531, 3422, doctoral degree, math, 4034, 3870, 6040, 43, 2206, 3949, programming, 87
+9627, Zi, Ghana, computer science, 6721, 1157, 475, doctoral degree, medicine, 579, 9564, 7088, 72, 2488, 2620, economics, 8
+9104, Sekme, Central African Republic, engineering, 2047, 5485, 4744, masters's degree, math, 4424, 6779, 9594, 44, 6424, 4102, programming, 34
+431, Lmrkmeke, Libiya, foreign languages, 7666, 2021, 6962, honours degree, medicine, 748, 4627, 7740, 47, 6429, 809, math, 72
+1292, Lmmelose, Ethiopia, natural science, 2999, 2205, 426, honours degree, math, 9157, 1881, 1314, 21, 1896, 8763, physics, 86
+8996, Ko, Mozambique, computer science, 9104, 5237, 6631, masters's degree, biology, 3079, 7924, 1662, 50, 7934, 6264, foreign language, 5
+4915, Hamre, Libiya, computer science, 3640, 68, 1013, masters's degree, differential eq., 1782, 3787, 1730, 95, 1123, 7553, programming, 83
+824, Zizikukasa, Ethiopia, natural science, 610, 1900, 4338, doctoral degree, math, 4573, 5899, 3351, 82, 1453, 5435, medicine, 88
+3021, Re, Ethiopia, natural science, 3902, 6108, 3758, masters's degree, differential eq., 3756, 803, 9796, 18, 1656, 8780, programming, 19
+3004, Me, Kenya, natural science, 2795, 9206, 99, masters's degree, differential eq., 5140, 518, 1265, 24, 7264, 5755, social sudies, 38
+2095, Sekoka, Cameroon, foreign languages, 8565, 8168, 2058, honours degree, physics, 7315, 8297, 5817, 7, 1568, 3078, biology, 7
+6509, Sksososek, Libiya, engineering, 6485, 7533, 2074, honours degree, physics, 6597, 1775, 7080, 67, 5104, 3209, databases, 45
+1260, Hamrekasek, Libiya, natural science, 997, 7682, 8554, doctoral degree, differential eq., 1995, 6709, 6868, 69, 3263, 528, social sudies, 40
+6899, Sulm, Mozambique, computer science, 3464, 5526, 6808, honours degree, databases, 2795, 2476, 5614, 38, 158, 8914, graph theory, 51
+8930, Zikokukask, Kenya, natural science, 9081, 5129, 1176, honours degree, prob. theory, 9034, 1045, 1802, 62, 7589, 5566, differential eq., 83
+2420, Rekurkkalm, Burundi, natural science, 4646, 2330, 2293, doctoral degree, foreign language, 4109, 6310, 203, 84, 2387, 5863, medicine, 32
+8622, Lmsekkasezi, Ghana, economics, 1044, 5258, 9862, doctoral degree, foreign language, 3114, 8924, 4552, 56, 9786, 3932, economics, 79
+3356, Ke, Burundi, natural science, 6194, 5968, 3986, masters's degree, math, 6955, 3860, 8037, 30, 9898, 7989, economics, 58
+1978, Saresosuso, Ethiopia, economics, 1723, 3291, 6769, honours degree, foreign language, 3725, 1953, 965, 48, 3578, 230, math, 94
+3130, Zikakeziko, Congo, engineering, 1633, 4007, 4733, doctoral degree, prob. theory, 6383, 5040, 6702, 25, 4683, 8922, differential eq., 60
+6202, Zi, Congo, engineering, 204, 982, 1758, honours degree, medicine, 7567, 9958, 6218, 64, 4945, 8956, foreign language, 5
+4830, Re, Libiya, computer science, 3040, 1108, 4671, masters's degree, social sudies, 9636, 7417, 2314, 79, 7841, 193, databases, 23
+1133, Kosulmham, Cameroon, computer science, 8874, 5443, 176, doctoral degree, medicine, 3920, 4511, 1208, 72, 1034, 2122, math, 80
+5942, Sohamkuzisek, Central African Republic, economics, 6560, 1703, 4722, honours degree, math, 6166, 7110, 718, 47, 8156, 211, medicine, 40
+5427, Loresu, Egypt, economics, 8945, 189, 8965, doctoral degree, foreign language, 9240, 1131, 9336, 31, 3608, 653, biology, 29
+1687, Suse, Guinea, economics, 6293, 5114, 7851, masters's degree, math, 906, 6942, 2568, 22, 1611, 5238, foreign language, 40
+5568, Selosoko, Egypt, foreign languages, 1880, 7060, 7003, masters's degree, differential eq., 9130, 3994, 350, 91, 2583, 7891, graph theory, 87
+4983, Lo, Ghana, natural science, 3448, 8519, 6786, honours degree, prob. theory, 9698, 4991, 6994, 96, 3757, 1528, differential eq., 48
+8709, Rekare, Burundi, economics, 5779, 8830, 172, honours degree, programming, 4998, 8402, 911, 89, 7304, 5514, economics, 60
+726, Kameloseko, Kenya, foreign languages, 9866, 4053, 5834, honours degree, databases, 6569, 8696, 691, 2, 8862, 2958, math, 54
+9365, Kulmselm, Libiya, computer science, 6576, 4783, 8769, honours degree, graph theory, 6367, 6932, 4130, 30, 1883, 6608, social sudies, 2
+4795, Lm, Ghana, computer science, 667, 725, 7550, honours degree, social sudies, 8343, 2445, 1559, 29, 133, 4701, medicine, 9
+2974, Lm, Congo, computer science, 2151, 7680, 6106, doctoral degree, differential eq., 3314, 3667, 7308, 41, 292, 6076, programming, 97
+3299, Surk, Cameroon, natural science, 1221, 6875, 9341, masters's degree, economics, 8176, 7017, 5489, 98, 8703, 9554, biology, 92
+1519, Lmzi, Burundi, natural science, 2521, 4569, 9692, masters's degree, prob. theory, 5951, 4029, 6714, 42, 9742, 6790, foreign language, 93
+1830, Lm, Central African Republic, economics, 2493, 9937, 4836, masters's degree, medicine, 8929, 4783, 6631, 94, 7568, 7611, databases, 86
+8810, Keseke, Ghana, computer science, 801, 759, 4497, honours degree, programming, 9046, 9060, 6654, 80, 6458, 4350, biology, 45
+2255, Ku, Egypt, engineering, 778, 6133, 2735, doctoral degree, databases, 7774, 3064, 4467, 38, 359, 8179, programming, 20
+7258, Relo, Egypt, foreign languages, 367, 3799, 7729, masters's degree, medicine, 4659, 9610, 5465, 44, 6820, 2812, social sudies, 96
+8481, Relore, Ethiopia, natural science, 6614, 9002, 250, doctoral degree, prob. theory, 5995, 4213, 1132, 37, 9420, 6488, programming, 82
+4707, Kurekeke, Egypt, computer science, 8090, 913, 1183, masters's degree, physics, 1617, 4649, 6627, 3, 5191, 4257, databases, 92
+2293, Sksahamka, Egypt, engineering, 2266, 4916, 1121, honours degree, economics, 1563, 2855, 7173, 43, 7131, 8922, economics, 2
+6431, Kokark, Kenya, foreign languages, 1879, 6645, 3333, masters's degree, biology, 9273, 7610, 2113, 74, 3862, 5877, biology, 5
+5030, Ko, Central African Republic, natural science, 4514, 9474, 3794, doctoral degree, prob. theory, 9065, 6834, 4551, 33, 8838, 94, biology, 54
+7869, Salm, Congo, foreign languages, 4094, 8903, 2947, masters's degree, differential eq., 9055, 659, 3065, 1, 202, 7152, medicine, 78
+5814, Kuzikeko, Burundi, economics, 9433, 9891, 1882, masters's degree, biology, 5628, 4862, 5571, 39, 4329, 7476, medicine, 93
+2326, Losesu, Congo, economics, 5203, 8590, 2439, masters's degree, economics, 1536, 6147, 9946, 4, 4365, 4773, medicine, 48
+2371, Kususosasu, Mozambique, economics, 8910, 6007, 3977, honours degree, economics, 885, 7096, 9556, 32, 6007, 2198, graph theory, 53
+7522, Losek, Cameroon, computer science, 8406, 3445, 2759, masters's degree, social sudies, 8468, 7464, 925, 62, 622, 1271, economics, 37
+7475, Kerekerese, Guinea, economics, 7110, 9819, 7142, doctoral degree, graph theory, 928, 5609, 4725, 48, 4325, 1619, programming, 13
+1629, Relomezilo, Ghana, computer science, 9920, 5426, 7533, masters's degree, math, 2210, 214, 7808, 10, 6068, 9529, math, 21
+9421, Mesurksa, Ghana, engineering, 8964, 7915, 1370, masters's degree, physics, 2885, 9390, 4054, 4, 2099, 4542, differential eq., 58
+862, Sa, Ghana, foreign languages, 7519, 2142, 863, doctoral degree, graph theory, 6960, 2239, 121, 66, 2842, 2767, databases, 77
+1214, Skhamlosa, Central African Republic, foreign languages, 242, 5740, 2996, honours degree, economics, 9928, 3136, 1320, 12, 8719, 2614, databases, 23
+2841, So, Central African Republic, foreign languages, 2510, 4384, 2003, masters's degree, physics, 5974, 9555, 8016, 13, 9388, 9936, social sudies, 23
+3107, Lolmkeseklo, Ghana, natural science, 9956, 1191, 7072, honours degree, programming, 5567, 1472, 6888, 63, 722, 3145, physics, 59
+7918, Lososkse, Congo, computer science, 8871, 5850, 9947, doctoral degree, prob. theory, 2774, 6200, 342, 24, 6584, 3996, social sudies, 17
+7402, Hamkosukuko, Ghana, natural science, 1486, 3418, 1954, masters's degree, economics, 8653, 2319, 7328, 62, 9857, 1518, programming, 53
+6872, Kosesk, Egypt, computer science, 5657, 2645, 9653, masters's degree, differential eq., 3530, 4021, 468, 53, 9956, 5756, physics, 7
+6108, Sark, Ghana, engineering, 577, 1131, 4518, doctoral degree, biology, 290, 8024, 2074, 72, 9360, 9316, math, 24
+2583, Sukorkkolo, Ethiopia, computer science, 4057, 319, 5779, masters's degree, databases, 3220, 8390, 5196, 51, 4490, 976, economics, 73
+161, Hamrkmerelo, Burundi, economics, 6834, 7942, 7839, honours degree, databases, 4637, 1113, 1817, 7, 9063, 230, foreign language, 47
+6442, Lm, Mozambique, natural science, 6862, 1162, 7783, honours degree, social sudies, 6334, 4254, 3795, 92, 7552, 2802, biology, 39
+3926, Ka, Central African Republic, natural science, 8005, 5744, 5361, honours degree, foreign language, 3846, 7069, 8218, 71, 5832, 4259, programming, 27
+86, Mekahamrkse, Ethiopia, natural science, 2816, 9771, 482, honours degree, math, 5999, 3652, 4818, 11, 6103, 9577, foreign language, 34
+7232, Rerkkeham, Cameroon, economics, 9719, 4172, 1926, doctoral degree, differential eq., 272, 2062, 276, 50, 5932, 3956, databases, 64
+7684, Sek, Libiya, economics, 9214, 8883, 6241, honours degree, economics, 7032, 4135, 6823, 9, 5804, 1225, programming, 41
+5769, Ziskse, Kenya, engineering, 1436, 8608, 4438, honours degree, databases, 5734, 996, 102, 51, 428, 5875, biology, 58
+8301, Sosk, Mozambique, engineering, 381, 9894, 8568, masters's degree, biology, 6047, 9391, 2313, 27, 3568, 8943, differential eq., 6
+4518, Lmsa, Cameroon, economics, 4962, 8538, 7469, masters's degree, differential eq., 8200, 2797, 2796, 35, 9089, 8483, prob. theory, 68
+6578, Sklokosalo, Libiya, natural science, 42, 1087, 2612, masters's degree, databases, 9276, 5677, 279, 82, 9303, 3380, prob. theory, 20
+6714, Re, Guinea, economics, 9166, 3345, 7444, masters's degree, programming, 4495, 3178, 1593, 25, 3059, 7816, physics, 30
+4590, Kosk, Mozambique, natural science, 2456, 1542, 7160, masters's degree, programming, 2175, 602, 8906, 95, 3671, 6681, databases, 16
+6560, Lorkreso, Mozambique, engineering, 7764, 3801, 4373, masters's degree, programming, 511, 9129, 3573, 32, 867, 9609, graph theory, 39
+9212, Sk, Congo, economics, 2096, 828, 6304, doctoral degree, math, 2961, 3700, 295, 60, 7109, 4402, differential eq., 77
+5115, Kalozirkso, Egypt, foreign languages, 5783, 9690, 5187, honours degree, social sudies, 7515, 1533, 5366, 91, 3520, 1247, foreign language, 64
+7476, Seko, Congo, foreign languages, 2992, 9992, 9859, doctoral degree, physics, 5572, 2443, 1779, 29, 2708, 5613, foreign language, 39
+763, Rerk, Burundi, engineering, 8202, 6349, 6430, doctoral degree, databases, 7531, 6113, 96, 33, 2611, 3782, graph theory, 43
+8832, Kasekke, Burundi, natural science, 1609, 8463, 424, doctoral degree, social sudies, 7292, 1141, 9462, 37, 2715, 4367, differential eq., 81
+754, Susumeku, Ethiopia, computer science, 6986, 651, 9696, honours degree, physics, 6019, 3362, 6021, 99, 3505, 603, graph theory, 8
+1836, Kelolo, Central African Republic, natural science, 3804, 6390, 8860, masters's degree, biology, 2744, 4256, 9404, 24, 3208, 8222, math, 61
+8738, Zizirk, Central African Republic, engineering, 2916, 6628, 90, honours degree, graph theory, 8623, 4707, 990, 65, 8235, 4520, programming, 33
+8627, Lolokoko, Egypt, foreign languages, 9206, 9972, 3814, doctoral degree, prob. theory, 4445, 4826, 4165, 34, 2694, 9534, medicine, 25
+5781, Reham, Libiya, natural science, 6337, 6975, 7170, honours degree, programming, 6942, 4292, 7547, 84, 8971, 1941, foreign language, 88
+9062, Mehamlm, Central African Republic, foreign languages, 2978, 8, 1691, doctoral degree, math, 6933, 4156, 222, 34, 2232, 805, economics, 27
+5707, Hamsek, Ghana, foreign languages, 9012, 6236, 1289, doctoral degree, databases, 8358, 2558, 466, 88, 1985, 357, graph theory, 31
+8728, Ke, Congo, engineering, 2866, 5968, 635, masters's degree, differential eq., 4297, 227, 1035, 74, 4821, 5280, economics, 1
+2352, Kekulo, Burundi, engineering, 61, 2592, 8116, masters's degree, economics, 4043, 5467, 8021, 5, 1256, 2177, prob. theory, 59
+2175, Sosazilo, Ghana, economics, 1334, 2851, 340, honours degree, graph theory, 6997, 2432, 2463, 16, 8907, 4136, biology, 24
+2409, Resek, Congo, economics, 8798, 9626, 6771, honours degree, differential eq., 3583, 5877, 1890, 46, 7779, 3088, math, 83
+1991, Lolmskse, Egypt, economics, 7479, 3093, 5505, honours degree, social sudies, 2186, 3849, 5950, 66, 6058, 9187, math, 92
+1889, Selmloko, Cameroon, computer science, 7063, 5311, 6443, masters's degree, social sudies, 5515, 4285, 5182, 26, 9316, 1137, social sudies, 22
+7373, Lmsekreme, Burundi, natural science, 8312, 8505, 4076, honours degree, prob. theory, 2165, 1487, 7276, 92, 6351, 1697, social sudies, 94
+1744, Sek, Libiya, natural science, 4394, 9397, 8789, doctoral degree, social sudies, 8888, 8261, 6982, 75, 9136, 4257, physics, 35
+9400, Kusa, Ghana, computer science, 5216, 4441, 5385, honours degree, databases, 2598, 1417, 6950, 77, 2193, 4225, medicine, 50
+9033, Se, Burundi, foreign languages, 1612, 2400, 9502, doctoral degree, physics, 5112, 6996, 471, 73, 2660, 1561, math, 92
+9874, Rehamkaka, Guinea, natural science, 2888, 9666, 6171, doctoral degree, medicine, 4947, 8371, 3663, 27, 233, 9913, physics, 46
+8417, Selmhamzi, Mozambique, engineering, 6330, 6107, 6272, doctoral degree, prob. theory, 5543, 2136, 3082, 29, 6189, 5365, prob. theory, 78
+8234, Sakusu, Kenya, engineering, 7142, 6038, 2398, honours degree, differential eq., 6741, 8176, 3500, 35, 3790, 3722, physics, 88
+1723, Kume, Burundi, economics, 5280, 3314, 5935, doctoral degree, medicine, 1911, 1581, 5418, 61, 2247, 334, prob. theory, 76
+8184, Lmskku, Guinea, computer science, 3955, 2137, 5827, masters's degree, economics, 8929, 3392, 7535, 42, 7046, 1021, databases, 87
+75, Lo, Burundi, engineering, 7942, 4332, 6624, masters's degree, differential eq., 5117, 3255, 6111, 98, 1731, 3682, economics, 83
+8643, Ko, Ghana, engineering, 4402, 7785, 276, honours degree, foreign language, 6607, 397, 4871, 23, 8743, 1753, databases, 48
+8686, Kokelokure, Guinea, economics, 6900, 6779, 2943, masters's degree, social sudies, 8090, 6787, 9204, 21, 2540, 3366, social sudies, 81
+9376, Seke, Mozambique, economics, 7449, 5940, 6845, doctoral degree, medicine, 6935, 9055, 6858, 41, 5014, 8197, graph theory, 43
+130, Mekesk, Ethiopia, engineering, 573, 239, 8907, doctoral degree, biology, 3397, 9101, 9601, 74, 9905, 1503, biology, 29
+4021, Rksekkoham, Egypt, engineering, 4515, 8707, 2041, doctoral degree, math, 9669, 7985, 5177, 22, 7515, 4508, databases, 34
+7304, Mesoko, Libiya, engineering, 8855, 828, 9816, doctoral degree, physics, 9141, 78, 3613, 98, 934, 288, prob. theory, 15
+9263, Kalo, Cameroon, foreign languages, 8352, 4777, 8904, masters's degree, differential eq., 8680, 7709, 4665, 55, 2806, 2511, social sudies, 44
+5268, Kosksekso, Ethiopia, natural science, 2286, 5543, 7437, honours degree, programming, 8904, 2475, 1320, 88, 5299, 1949, economics, 30
+2999, Ko, Guinea, engineering, 605, 2419, 4601, masters's degree, biology, 2002, 9434, 5797, 28, 3082, 4915, medicine, 14
+5243, Kukekoso, Guinea, natural science, 961, 6608, 713, masters's degree, graph theory, 5347, 5884, 2865, 61, 492, 6513, economics, 84
+2827, Sosa, Mozambique, economics, 4584, 8111, 5689, honours degree, databases, 3797, 3412, 5142, 32, 9741, 6817, social sudies, 91
+9831, Kame, Burundi, computer science, 7763, 2190, 8087, masters's degree, math, 7981, 1788, 2845, 89, 6563, 7834, math, 93
+5690, Sesklomeko, Cameroon, engineering, 153, 1544, 5665, honours degree, databases, 4850, 1164, 3209, 80, 4978, 3272, differential eq., 16
+9474, Kesakusek, Ghana, natural science, 121, 715, 2189, masters's degree, databases, 5770, 3865, 125, 7, 3361, 5538, databases, 12
+6400, Mesu, Congo, computer science, 10, 5531, 4888, honours degree, foreign language, 7036, 3883, 9413, 77, 5398, 6856, physics, 27
+9048, Kozisu, Burundi, natural science, 2824, 1022, 713, masters's degree, foreign language, 3107, 5588, 6462, 5, 3928, 2784, math, 59
+5170, Sume, Burundi, economics, 3878, 471, 8413, masters's degree, math, 4397, 7581, 7867, 80, 7814, 6873, foreign language, 11
+7597, Su, Burundi, computer science, 7622, 3492, 5801, honours degree, social sudies, 7345, 5720, 686, 79, 9113, 6103, prob. theory, 60
+3452, Kelm, Guinea, economics, 1578, 335, 3990, honours degree, databases, 8551, 452, 9589, 74, 6438, 5659, databases, 64
+8478, Kuse, Kenya, natural science, 8461, 5691, 334, doctoral degree, databases, 8611, 8290, 4701, 84, 7938, 5501, biology, 3
+7246, Sek, Mozambique, economics, 4881, 312, 2976, masters's degree, biology, 4498, 3821, 5839, 16, 69, 9462, foreign language, 35
+7572, Koloke, Kenya, natural science, 7666, 239, 3143, masters's degree, math, 5506, 2591, 2245, 87, 8889, 5277, programming, 52
+7322, Sesoziko, Egypt, foreign languages, 6226, 5214, 8824, masters's degree, social sudies, 3497, 3350, 464, 30, 6952, 989, biology, 34
+2838, Sake, Kenya, computer science, 8728, 3183, 216, honours degree, prob. theory, 6032, 9676, 6920, 68, 4266, 3371, foreign language, 54
+6314, Kosuhamlmka, Mozambique, natural science, 8160, 7451, 197, masters's degree, math, 8057, 3229, 7014, 7, 3568, 1587, medicine, 61
+7100, Sesklozilm, Ethiopia, foreign languages, 344, 5160, 7209, honours degree, medicine, 7339, 2889, 6313, 57, 7185, 3757, differential eq., 98
+7720, Hamsk, Guinea, economics, 3503, 8873, 9874, doctoral degree, biology, 8927, 8520, 1974, 24, 1436, 8408, databases, 5
+7056, Selolm, Cameroon, natural science, 5540, 7412, 1224, masters's degree, graph theory, 7970, 5280, 2567, 96, 9950, 316, prob. theory, 42
+4195, Surekusa, Ethiopia, foreign languages, 8448, 5154, 3623, honours degree, medicine, 8738, 4493, 2181, 23, 7003, 2911, economics, 94
+4522, Kususekreko, Cameroon, computer science, 5183, 8594, 5009, honours degree, math, 4519, 917, 4911, 74, 6519, 6934, physics, 43
+5834, Sarklmkuku, Cameroon, economics, 281, 1156, 1171, doctoral degree, economics, 2194, 9961, 6816, 64, 4168, 3242, physics, 40
+9587, Zikesa, Guinea, engineering, 8936, 8071, 3766, honours degree, medicine, 1972, 4150, 8806, 96, 3055, 1302, foreign language, 31
+1493, Sasu, Burundi, economics, 9934, 9814, 4878, masters's degree, medicine, 1855, 6076, 1369, 29, 6995, 718, databases, 74
+6685, Hamresksksu, Mozambique, engineering, 8215, 1840, 4499, masters's degree, prob. theory, 8396, 5515, 7286, 97, 6329, 7462, economics, 93
+3537, Zisasalm, Mozambique, engineering, 1315, 1593, 8505, honours degree, social sudies, 1643, 6593, 1670, 90, 3140, 4075, prob. theory, 83
+4855, Sokazikeko, Ghana, engineering, 9318, 3705, 2770, doctoral degree, foreign language, 973, 5138, 7202, 98, 6142, 2457, biology, 4
+7277, Kakume, Cameroon, foreign languages, 9636, 6965, 5689, doctoral degree, differential eq., 6502, 5154, 93, 10, 8271, 9252, physics, 49
+2778, Zi, Mozambique, economics, 8915, 5050, 7519, honours degree, economics, 1374, 2827, 7603, 5, 8929, 49, physics, 25
+3683, Suskrkse, Ethiopia, foreign languages, 3280, 1399, 6608, honours degree, programming, 6800, 8959, 3229, 41, 8919, 7278, biology, 58
+104, Kukerk, Ghana, natural science, 8841, 1399, 9051, honours degree, social sudies, 3942, 8913, 3549, 14, 4718, 7118, differential eq., 4
+7463, Kumeloserk, Ghana, computer science, 3659, 7800, 4986, honours degree, graph theory, 8221, 7664, 3686, 75, 9342, 1944, databases, 21
+3215, Serklosolo, Central African Republic, foreign languages, 7344, 9890, 504, honours degree, medicine, 888, 8767, 766, 5, 2149, 6954, graph theory, 88
+1926, Zisasusuham, Mozambique, natural science, 6581, 8226, 2850, doctoral degree, differential eq., 2160, 8899, 2006, 67, 5079, 3747, databases, 22
+442, Lo, Congo, natural science, 3260, 455, 9298, masters's degree, economics, 5667, 1715, 4246, 54, 4050, 6136, biology, 64
+6538, Kolmsksasa, Central African Republic, foreign languages, 1092, 5999, 694, masters's degree, math, 4548, 440, 6691, 20, 2988, 4841, programming, 94
+9800, Loreka, Kenya, computer science, 529, 5066, 9845, doctoral degree, physics, 8962, 5105, 1233, 38, 6144, 6766, graph theory, 43
+2410, Kulosa, Libiya, economics, 5024, 4286, 2060, honours degree, databases, 6165, 3946, 7446, 33, 2083, 4820, graph theory, 20
+7101, Sasahamse, Congo, natural science, 2186, 4891, 2960, masters's degree, foreign language, 3902, 3027, 2878, 96, 7940, 9254, social sudies, 40
+4168, Kuzisekkosek, Central African Republic, economics, 5139, 915, 6525, honours degree, math, 8394, 1286, 3131, 11, 9413, 8125, economics, 62
+5633, Resume, Ethiopia, foreign languages, 2125, 9695, 7143, honours degree, programming, 5071, 9555, 3753, 5, 1194, 267, social sudies, 49
+1186, Mesu, Cameroon, economics, 3419, 1204, 4345, honours degree, differential eq., 9716, 4061, 9058, 41, 1767, 1614, differential eq., 71
+7096, Lork, Cameroon, natural science, 3234, 6331, 389, honours degree, medicine, 8843, 184, 4964, 16, 5997, 705, foreign language, 96
+9281, Sksk, Cameroon, natural science, 9638, 5091, 2041, masters's degree, prob. theory, 6806, 8964, 6278, 32, 6562, 7746, physics, 23
+9216, Sa, Burundi, engineering, 8139, 2536, 7004, doctoral degree, prob. theory, 5220, 1242, 9419, 85, 361, 3857, biology, 44
+6416, Kozikosa, Ethiopia, foreign languages, 8468, 4819, 6654, honours degree, foreign language, 8871, 749, 1867, 62, 1379, 8832, physics, 57
+3607, Lome, Ethiopia, economics, 9463, 8828, 7944, masters's degree, math, 2055, 7340, 4751, 28, 7745, 9308, social sudies, 18
+1573, Lo, Congo, computer science, 7397, 7673, 895, honours degree, medicine, 9791, 4193, 8880, 14, 5738, 9047, biology, 2
+6640, Ko, Kenya, foreign languages, 3903, 8929, 3733, masters's degree, prob. theory, 1040, 4797, 8968, 23, 5160, 587, economics, 94
+8522, Mesoke, Ghana, natural science, 7087, 6323, 7768, honours degree, economics, 9969, 7560, 5700, 24, 672, 1812, math, 94
+4192, Kaku, Guinea, foreign languages, 3128, 737, 5365, masters's degree, differential eq., 8444, 8822, 988, 38, 8694, 3256, foreign language, 64
+3757, Sukuzi, Guinea, foreign languages, 9041, 4600, 4076, honours degree, math, 5914, 8199, 2114, 20, 3923, 424, medicine, 57
+2501, Kosasa, Cameroon, foreign languages, 1740, 9596, 8782, doctoral degree, foreign language, 4685, 2064, 272, 82, 8156, 7727, economics, 34
+1908, Koresekso, Libiya, natural science, 1512, 6254, 41, honours degree, differential eq., 6395, 9106, 9728, 91, 4387, 2731, biology, 87
+8928, Losekseksek, Congo, economics, 9537, 3121, 7223, masters's degree, physics, 8033, 4732, 2042, 100, 9230, 381, foreign language, 8
+2562, Sekekoreku, Mozambique, natural science, 3377, 403, 5614, masters's degree, social sudies, 6980, 1989, 6987, 83, 8883, 6589, economics, 82
+9974, Samesu, Cameroon, economics, 4980, 5636, 5389, doctoral degree, foreign language, 6150, 9196, 6025, 19, 3527, 1396, prob. theory, 89
+524, Sksasuham, Mozambique, economics, 4727, 1981, 5152, doctoral degree, math, 2105, 7598, 8347, 65, 1671, 4813, physics, 15
+7111, Sa, Ghana, foreign languages, 155, 3605, 3321, masters's degree, programming, 2079, 9274, 9913, 29, 4403, 9369, physics, 5
