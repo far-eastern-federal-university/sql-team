@@ -3,7 +3,9 @@
 Created on Wed Jun 26 04:25:31 2019
 
 @author: axmatov.ari
+РАБОТАЕТ с МНОГО СТРОКОМ, НО НЕ ЧИТАЕТ С ФАЙЛА(одним файлом пандас)
 """
+
 import csv 
 import numpy as np
 import pandas as pd
