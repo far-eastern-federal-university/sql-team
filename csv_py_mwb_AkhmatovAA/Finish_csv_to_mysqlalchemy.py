@@ -10,17 +10,25 @@ import sqlalchemy
 import pandas as pd
 
 FRAME = pd.read_csv('list_Books.csv', sep=';')
-#print(FRAME)
+print(FRAME)
 
 database_username = 'root'
-database_password = 'root'
+database_password = 'zhil,p@ss'
 database_host    = 'localhost'
 database_name     = 'billing_simple'
 #Чтобы соединиться с СУБД, мы используем функцию create_engine():
 conn = sqlalchemy.create_engine('mysql+mysqlconnector://{0}:{1}@{2}/{3}'.format(database_username, 
                                                       database_password, 
-                                                      database_host, 
+                                                      database_host,
                                                       database_name))
+#
+#if conn.is_connected() and conn.database == None:
+#    print("Connected")
+#    if  database_name != conn.database:
+#        conn.cursor().execute("CREATE DATABASE " + database_name)
+#    conn.database = database_name
+    
+    
 # Удалите таблицу, если она уже существует с помощью метода execute()  
 result = conn.execute('DROP TABLE IF EXISTS list_Books')
 FRAME.to_sql( name='list_Books', con=conn, if_exists='replace')

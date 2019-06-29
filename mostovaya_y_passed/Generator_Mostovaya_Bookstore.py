@@ -56,7 +56,7 @@ def Publish():
 
 Publish_Table = Publish()
 
-#print((Publish_Table))    
+print((Publish_Table))    
 
   
     
