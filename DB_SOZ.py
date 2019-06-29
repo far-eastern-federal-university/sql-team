@@ -161,7 +161,7 @@ def connect():
                                                          "Engine_Type VARCHAR(25), PRIMARY KEY (FuelTypeID));")
                 
             if 'Models' not in existing_tbls:
-                mycursor.execute("CREATE TABLE Models (ModelID INT NOT NULL, ModelName VARCHAR(55)," + 
+                mycursor.execute("CREATE TABLE Models (ModelID INT NOT NULL, ModelName VARCHAR(55), HybridID,DrivelineID, MakeID, FuelTypeID" + 
                                                       "PRIMARY KEY(ModelID ),"+
                                                       "FOREIGN KEY(HybridID) REFERENCES Hybrid(HybridID)," +  
                                                       "FOREIGN KEY(DrivelineID) REFERENCES Driveline(DrivelineID)," +
