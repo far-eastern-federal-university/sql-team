@@ -131,5 +131,5 @@ def mysql_connect(hostname, name, passwd, path_to_db):
             conn.commit()
             conn.close()
 
-mysql_connect('localhost', 'root', 'admin', 'uni_db.csv')
+mysql_connect('localhost', 'root', 'zhil,p@ss', 'uni_db.csv')
 
