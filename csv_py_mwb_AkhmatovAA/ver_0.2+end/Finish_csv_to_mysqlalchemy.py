@@ -22,14 +22,13 @@ data_reader = pd.read_csv('data_reader.csv', sep=';')
 #print(FRAME)
 
 # var:
-
 database_user = 'root'
 database_password = 'root'
 database_host     = 'localhost'
 database_name     = 'library_data'
 
-# var:
 
+# var:
 #table_author = "author"
 #table_data_book = "data_book"
 #table_data_copy = "data_copy"
@@ -43,22 +42,16 @@ database_name     = 'library_data'
 def connect():
     """ Connect to MySQL database """
     try:
-        
         conn = MySQLConnection(host = database_host,
                                       # database=database_name,
                                        user = database_user,
                                        password = database_password)
-        
         if conn.is_connected() and conn.database == None:
-            
             if  database_name != conn.database:
-                #if database_name = :
                 conn.cursor().execute("DROP DATABASE IF EXISTS " + database_name )
-                #else
                 conn.cursor().execute("CREATE DATABASE " + database_name )
             conn.database = database_name
             print('База данных '+ database_name +' созданна, Ура!')
-            
     except Error as e:
         print(e)
     finally:
@@ -68,7 +61,7 @@ def connect():
 # begin:
 if __name__ == '__main__':
     connect()        
-    
+ 
 #Чтобы соединиться с СУБД, мы используем функцию create_engine():
 conn = create_engine('mysql+mysqlconnector://{0}:{1}@{2}/{3}'.format(database_user, 
                                                       database_password, 
