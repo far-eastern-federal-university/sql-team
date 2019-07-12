@@ -48,27 +48,27 @@ def connect():
                                                           "PRIMARY KEY (FirmID));")
           
             if 'staff' not in existing_tbls:
-                mycursor.execute("CREATE TABLE staff ( staffID INT NOT NULL, surnameF[indS] VARCHAR(25)," + 
-                                                       " namesF[indN] VARCHAR(25), surnameM[indS] VARCHAR(25)," + 
-                                                       " namesM[indN] VARCHAR(25), Staff VARCHAR(25) " + 
+                mycursor.execute("CREATE TABLE staff ( staffID INT NOT NULL, surnameF VARCHAR(25)," + 
+                                                       " namesF VARCHAR(25), surnameM VARCHAR(25)," + 
+                                                       " namesM VARCHAR(25), staff VARCHAR(25) " + 
                                                        "PRIMARY KEY (staffID);")
 
             if 'transport' not in existing_tbls:
-                mycursor.execute("CREATE TABLE transport (transportID INT NOT NULL, Transport VARCHAR(55)," + 
+                mycursor.execute("CREATE TABLE transport (transportID INT NOT NULL, transport VARCHAR(55)," + 
                                                       " PRIMARY KEY (transportID) ;")
            
             
             if 'Advertising' not in existing_tbls:
-                mycursor.execute("CREATE TABLE Advertising ( AdvertisingID INT NOT NULL,  Advertising VARCHAR(25)," + 
+                mycursor.execute("CREATE TABLE advertising ( AdvertisingID INT NOT NULL,  advertising VARCHAR(25)," + 
                                                              " FruitsID INT NOT NULL,  PRIMARY KEY ( AdvertisingID)," + 
                                                              " FOREIGN KEY (FruitsID);")
             if 'Transactions' not in existing_tbls:
-                mycursor.execute("CREATE TABLE Transactions ( TransactionsID INT NOT NULL,  number INT, " + 
+                mycursor.execute("CREATE TABLE transactions ( TransactionsID INT NOT NULL,  number INT, " + 
                                                              " FruitsID INT NOT NULL,  UserID INT NOT NULL," + 
                                                              " IDSeller INT, price int, quantity INT" + "PRIMARY KEY(TransactionsID), FOREIGN KEY(FruitsID);")       
             if 'User' not in existing_tbls:
-                mycursor.execute("CREATE TABLE User (UserID INT NOT NULL,surnameM VARCHAR(55), namesM VARCHAR(25)," + 
-                                                      " surnameF VARCHAR(25), namesF VARCHAR(25), secnameF VARCHAR(25)," + "PRIMARY KEY(Userid) ;")
+                mycursor.execute("CREATE TABLE user (UserID INT NOT NULL,surnameM VARCHAR(55), namesM VARCHAR(25)," + 
+                                                      " surnameF VARCHAR(25), namesF VARCHAR(25), secnameF VARCHAR(25)," + "PRIMARY KEY(UserID) ;")
             mycursor.execute('SHOW TABLES')
             tables = mycursor.fetchall()
             existing_tbls = [x[0] for x in tables]
@@ -137,7 +137,7 @@ def connect():
 
                lst = pl.staff_Table
                for el in lst:
-                    sql = "INSERT INTO staff ( staffID, surnameF,namesF,surnameM,namesM,Staff ) VALUES (%s, %s, %s,%s,%s,%s)"
+                    sql = "INSERT INTO staff ( staffID, surnameF,namesF,surnameM,namesM,staff ) VALUES (%s, %s, %s,%s,%s,%s)"
                     val = (el[0],el[1], el[2], el[3], el[4], el[5])
                     mycursor.execute(sql, val)
                mycursor.execute("SELECT * FROM staff")
